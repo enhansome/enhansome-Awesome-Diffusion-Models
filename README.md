@@ -2756,7 +2756,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2303.10834)] \
 
 **Diff-UNet: A Diffusion Embedded Network for Volumetric Segmentation** \
 *Zhaohu Xing, Liang Wan, Huazhu Fu, Guang Yang, Lei Zhu* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2303.10326)] \[[Github](https://github.com/ge-xing/Diff-UNet) ⭐ 197 | 🐛 34 | 🌐 Python | 📅 2024-03-22] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2303.10326)] \[[Github](https://github.com/ge-xing/Diff-UNet) ⭐ 198 | 🐛 34 | 🌐 Python | 📅 2024-03-22] \
 18 Mar 2023
 
 **DiffusionSeg: Adapting Diffusion Towards Unsupervised Object Discovery** \
@@ -5047,7 +5047,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2303.10610)] \
 
 **Diff-UNet: A Diffusion Embedded Network for Volumetric Segmentation** \
 *Zhaohu Xing, Liang Wan, Huazhu Fu, Guang Yang, Lei Zhu* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2303.10326)] \[[Github](https://github.com/ge-xing/Diff-UNet) ⭐ 197 | 🐛 34 | 🌐 Python | 📅 2024-03-22] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2303.10326)] \[[Github](https://github.com/ge-xing/Diff-UNet) ⭐ 198 | 🐛 34 | 🌐 Python | 📅 2024-03-22] \
 18 Mar 2023
 
 **Reversing the Abnormal: Pseudo-Healthy Generative Networks for Anomaly Detection** \
@@ -6444,7 +6444,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2308.06739)] \
 
 **IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models** \
 *Hu Ye, Jun Zhang, Sibo Liu, Xiao Han, Wei Yang* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2308.06721)] \[[Project](https://ip-adapter.github.io/)] \[[Github](https://github.com/tencent-ailab/IP-Adapter) ⭐ 6,669 | 🐛 299 | 🌐 Jupyter Notebook | 📅 2024-06-28] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2308.06721)] \[[Project](https://ip-adapter.github.io/)] \[[Github](https://github.com/tencent-ailab/IP-Adapter) ⭐ 6,670 | 🐛 299 | 🌐 Jupyter Notebook | 📅 2024-06-28] \
 13 Aug 2023
 
 **LAW-Diffusion: Complex Scene Generation by Diffusion with Layouts** \
@@ -8129,7 +8129,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2302.07121)] \[[Github](https://gith
 
 **Adding Conditional Control to Text-to-Image Diffusion Models** \
 *Lvmin Zhang, Maneesh Agrawala* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2302.05543)] \[[Github](https://github.com/lllyasviel/ControlNet) ⭐ 34,075 | 🐛 460 | 🌐 Python | 📅 2024-02-25] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2302.05543)] \[[Github](https://github.com/lllyasviel/ControlNet) ⭐ 34,076 | 🐛 460 | 🌐 Python | 📅 2024-02-25] \
 10 Feb 2023
 
 **Analyzing Multimodal Objectives Through the Lens of Generative Diffusion Guidance** \
