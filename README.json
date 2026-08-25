@@ -873,7 +873,7 @@
                     "last_commit": "2024-02-06T20:38:31Z",
                     "owner": "LuChengTHU",
                     "repo": "dpm-solver",
-                    "stars": 1852
+                    "stars": 1853
                   }
                 },
                 {
@@ -1128,7 +1128,7 @@
                     "last_commit": "2024-02-06T20:38:31Z",
                     "owner": "LuChengTHU",
                     "repo": "dpm-solver",
-                    "stars": 1852
+                    "stars": 1853
                   }
                 },
                 {
@@ -1473,7 +1473,7 @@
                     "last_commit": "2024-07-18T02:45:29Z",
                     "owner": "openai",
                     "repo": "improved-diffusion",
-                    "stars": 3845
+                    "stars": 3844
                   }
                 },
                 {
@@ -2401,7 +2401,7 @@
                     "last_commit": "2025-07-29T12:11:31Z",
                     "owner": "XPixelGroup",
                     "repo": "DiffBIR",
-                    "stars": 4118
+                    "stars": 4119
                   }
                 },
                 {
@@ -2596,7 +2596,7 @@
                     "last_commit": "2024-08-22T06:51:45Z",
                     "owner": "Royalvice",
                     "repo": "DocDiff",
-                    "stars": 353
+                    "stars": 354
                   }
                 },
                 {
@@ -2611,7 +2611,7 @@
                     "last_commit": "2026-08-22T04:47:40Z",
                     "owner": "geekyutao",
                     "repo": "Inpaint-Anything",
-                    "stars": 7699
+                    "stars": 7700
                   }
                 },
                 {
@@ -4305,7 +4305,7 @@
                     "last_commit": "2024-07-31T01:14:15Z",
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12223
+                    "stars": 12224
                   }
                 },
                 {
@@ -5265,7 +5265,7 @@
                     "last_commit": "2024-02-25T09:49:39Z",
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34078
+                    "stars": 34079
                   }
                 },
                 {
@@ -5385,7 +5385,7 @@
                     "last_commit": "2026-07-25T06:15:21Z",
                     "owner": "microsoft",
                     "repo": "LMOps",
-                    "stars": 4465
+                    "stars": 4464
                   }
                 },
                 {
@@ -5850,7 +5850,7 @@
                     "last_commit": "2025-04-24T21:51:19Z",
                     "owner": "energy-based-model",
                     "repo": "Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch",
-                    "stars": 490
+                    "stars": 491
                   }
                 },
                 {
@@ -6217,7 +6217,7 @@
                     "last_commit": "2024-06-22T19:19:14Z",
                     "owner": "openai",
                     "repo": "shap-e",
-                    "stars": 12261
+                    "stars": 12260
                   }
                 },
                 {
@@ -6232,7 +6232,7 @@
                     "last_commit": "2025-09-20T12:39:49Z",
                     "owner": "ethanweber",
                     "repo": "nerfbusters",
-                    "stars": 232
+                    "stars": 233
                   }
                 },
                 {
@@ -6872,7 +6872,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:06:45.378Z",
+    "last_updated": "2026-08-25T05:45:04.373Z",
     "original_repository": "diff-usion/Awesome-Diffusion-Models",
     "original_repository_id": 407722319,
     "original_repository_sha": "01be334d2e258b0150093761d77ab55b789e88d3",
