@@ -348,7 +348,7 @@
                     "last_commit": "2025-12-16T08:36:18Z",
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27268
+                    "stars": 27269
                   }
                 },
                 {
@@ -1248,7 +1248,7 @@
                     "last_commit": "2024-03-08T08:44:28Z",
                     "owner": "openai",
                     "repo": "glide-text2im",
-                    "stars": 3685
+                    "stars": 3684
                   }
                 },
                 {
@@ -1263,7 +1263,7 @@
                     "last_commit": "2024-02-29T05:29:47Z",
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14130
+                    "stars": 14131
                   }
                 },
                 {
@@ -1563,7 +1563,7 @@
                     "last_commit": "2023-08-29T16:48:57Z",
                     "owner": "hojonathanho",
                     "repo": "diffusion",
-                    "stars": 5300
+                    "stars": 5299
                   }
                 },
                 {
@@ -2428,7 +2428,7 @@
                     "archived": false,
                     "id": 654329346,
                     "language": "Python",
-                    "last_commit": "2024-08-06T14:31:11Z",
+                    "last_commit": "2026-08-25T13:27:43Z",
                     "owner": "BioMedAI-UCSC",
                     "repo": "InverseSR",
                     "stars": 78
@@ -2611,7 +2611,7 @@
                     "last_commit": "2026-08-22T04:47:40Z",
                     "owner": "geekyutao",
                     "repo": "Inpaint-Anything",
-                    "stars": 7700
+                    "stars": 7701
                   }
                 },
                 {
@@ -2896,7 +2896,7 @@
                     "last_commit": "2023-02-23T14:38:50Z",
                     "owner": "IGITUGraz",
                     "repo": "WeatherDiffusion",
-                    "stars": 443
+                    "stars": 444
                   }
                 },
                 {
@@ -3001,7 +3001,7 @@
                     "last_commit": "2024-02-29T05:29:47Z",
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14130
+                    "stars": 14131
                   }
                 },
                 {
@@ -3155,7 +3155,7 @@
                     "archived": false,
                     "id": 654329346,
                     "language": "Python",
-                    "last_commit": "2024-08-06T14:31:11Z",
+                    "last_commit": "2026-08-25T13:27:43Z",
                     "owner": "BioMedAI-UCSC",
                     "repo": "InverseSR",
                     "stars": 78
@@ -3780,7 +3780,7 @@
                     "last_commit": "2024-10-31T01:20:53Z",
                     "owner": "PixArt-alpha",
                     "repo": "PixArt-alpha",
-                    "stars": 3302
+                    "stars": 3303
                   }
                 },
                 {
@@ -4305,7 +4305,7 @@
                     "last_commit": "2024-07-31T01:14:15Z",
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12224
+                    "stars": 12226
                   }
                 },
                 {
@@ -4350,7 +4350,7 @@
                     "last_commit": "2025-12-16T08:36:18Z",
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27268
+                    "stars": 27269
                   }
                 },
                 {
@@ -5205,7 +5205,7 @@
                     "last_commit": "2024-06-21T20:51:36Z",
                     "owner": "TencentARC",
                     "repo": "T2I-Adapter",
-                    "stars": 3802
+                    "stars": 3801
                   }
                 },
                 {
@@ -5265,7 +5265,7 @@
                     "last_commit": "2024-02-25T09:49:39Z",
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34079
+                    "stars": 34083
                   }
                 },
                 {
@@ -5280,7 +5280,7 @@
                     "last_commit": "2024-03-21T05:50:44Z",
                     "owner": "Xiuyu-Li",
                     "repo": "q-diffusion",
-                    "stars": 379
+                    "stars": 380
                   }
                 },
                 {
@@ -5385,7 +5385,7 @@
                     "last_commit": "2026-07-25T06:15:21Z",
                     "owner": "microsoft",
                     "repo": "LMOps",
-                    "stars": 4464
+                    "stars": 4465
                   }
                 },
                 {
@@ -5805,7 +5805,7 @@
                     "last_commit": "2024-02-29T05:29:47Z",
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14130
+                    "stars": 14131
                   }
                 },
                 {
@@ -5925,7 +5925,7 @@
                     "last_commit": "2024-05-11T19:18:10Z",
                     "owner": "lucidrains",
                     "repo": "DALLE2-pytorch",
-                    "stars": 11307
+                    "stars": 11306
                   }
                 },
                 {
@@ -5940,7 +5940,7 @@
                     "last_commit": "2024-02-29T05:29:47Z",
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14130
+                    "stars": 14131
                   }
                 },
                 {
@@ -6217,7 +6217,7 @@
                     "last_commit": "2024-06-22T19:19:14Z",
                     "owner": "openai",
                     "repo": "shap-e",
-                    "stars": 12260
+                    "stars": 12259
                   }
                 },
                 {
@@ -6872,7 +6872,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:45:04.373Z",
+    "last_updated": "2026-08-25T16:17:02.187Z",
     "original_repository": "diff-usion/Awesome-Diffusion-Models",
     "original_repository_id": 407722319,
     "original_repository_sha": "01be334d2e258b0150093761d77ab55b789e88d3",
