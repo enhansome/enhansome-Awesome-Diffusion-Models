@@ -348,7 +348,7 @@
                     "last_commit": "2025-12-16T08:36:18Z",
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27269
+                    "stars": 27270
                   }
                 },
                 {
@@ -873,7 +873,7 @@
                     "last_commit": "2024-02-06T20:38:31Z",
                     "owner": "LuChengTHU",
                     "repo": "dpm-solver",
-                    "stars": 1853
+                    "stars": 1852
                   }
                 },
                 {
@@ -1128,7 +1128,7 @@
                     "last_commit": "2024-02-06T20:38:31Z",
                     "owner": "LuChengTHU",
                     "repo": "dpm-solver",
-                    "stars": 1853
+                    "stars": 1852
                   }
                 },
                 {
@@ -1263,7 +1263,7 @@
                     "last_commit": "2024-02-29T05:29:47Z",
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14131
+                    "stars": 14132
                   }
                 },
                 {
@@ -1338,7 +1338,7 @@
                     "last_commit": "2023-02-12T07:40:43Z",
                     "owner": "ermongroup",
                     "repo": "SDEdit",
-                    "stars": 1167
+                    "stars": 1168
                   }
                 },
                 {
@@ -1443,7 +1443,7 @@
                     "last_commit": "2024-07-02T11:26:50Z",
                     "owner": "openai",
                     "repo": "guided-diffusion",
-                    "stars": 7417
+                    "stars": 7419
                   }
                 },
                 {
@@ -1563,7 +1563,7 @@
                     "last_commit": "2023-08-29T16:48:57Z",
                     "owner": "hojonathanho",
                     "repo": "diffusion",
-                    "stars": 5299
+                    "stars": 5300
                   }
                 },
                 {
@@ -1608,7 +1608,7 @@
                     "last_commit": "2017-02-28T20:31:45Z",
                     "owner": "Sohl-Dickstein",
                     "repo": "Diffusion-Probabilistic-Models",
-                    "stars": 544
+                    "stars": 545
                   }
                 }
               ],
@@ -2521,7 +2521,7 @@
                     "last_commit": "2026-07-08T11:06:15Z",
                     "owner": "zsyOAOA",
                     "repo": "ResShift",
-                    "stars": 1426
+                    "stars": 1427
                   }
                 },
                 {
@@ -2611,7 +2611,7 @@
                     "last_commit": "2026-08-22T04:47:40Z",
                     "owner": "geekyutao",
                     "repo": "Inpaint-Anything",
-                    "stars": 7701
+                    "stars": 7703
                   }
                 },
                 {
@@ -3001,7 +3001,7 @@
                     "last_commit": "2024-02-29T05:29:47Z",
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14131
+                    "stars": 14132
                   }
                 },
                 {
@@ -3443,7 +3443,7 @@
                     "last_commit": "2024-07-01T14:33:54Z",
                     "owner": "Project-MONAI",
                     "repo": "GenerativeModels",
-                    "stars": 761
+                    "stars": 760
                   }
                 },
                 {
@@ -3780,7 +3780,7 @@
                     "last_commit": "2024-10-31T01:20:53Z",
                     "owner": "PixArt-alpha",
                     "repo": "PixArt-alpha",
-                    "stars": 3303
+                    "stars": 3304
                   }
                 },
                 {
@@ -4305,7 +4305,7 @@
                     "last_commit": "2024-07-31T01:14:15Z",
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12226
+                    "stars": 12227
                   }
                 },
                 {
@@ -4350,7 +4350,7 @@
                     "last_commit": "2025-12-16T08:36:18Z",
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27269
+                    "stars": 27270
                   }
                 },
                 {
@@ -4515,7 +4515,7 @@
                     "last_commit": "2024-07-17T02:47:57Z",
                     "owner": "ShihaoZhaoZSH",
                     "repo": "Uni-ControlNet",
-                    "stars": 669
+                    "stars": 668
                   }
                 },
                 {
@@ -5115,7 +5115,7 @@
                     "last_commit": "2024-01-06T02:41:20Z",
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 34006
+                    "stars": 34003
                   }
                 },
                 {
@@ -5265,7 +5265,7 @@
                     "last_commit": "2024-02-25T09:49:39Z",
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34083
+                    "stars": 34091
                   }
                 },
                 {
@@ -5595,7 +5595,7 @@
                     "last_commit": "2024-03-03T21:54:00Z",
                     "owner": "timothybrooks",
                     "repo": "instruct-pix2pix",
-                    "stars": 6884
+                    "stars": 6885
                   }
                 },
                 {
@@ -5805,7 +5805,7 @@
                     "last_commit": "2024-02-29T05:29:47Z",
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14131
+                    "stars": 14132
                   }
                 },
                 {
@@ -5895,7 +5895,7 @@
                     "last_commit": "2024-10-07T13:00:53Z",
                     "owner": "lucidrains",
                     "repo": "imagen-pytorch",
-                    "stars": 8423
+                    "stars": 8424
                   }
                 },
                 {
@@ -5940,7 +5940,7 @@
                     "last_commit": "2024-02-29T05:29:47Z",
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14131
+                    "stars": 14132
                   }
                 },
                 {
@@ -6217,7 +6217,7 @@
                     "last_commit": "2024-06-22T19:19:14Z",
                     "owner": "openai",
                     "repo": "shap-e",
-                    "stars": 12259
+                    "stars": 12260
                   }
                 },
                 {
@@ -6502,7 +6502,7 @@
                     "last_commit": "2024-05-05T21:06:49Z",
                     "owner": "LinghaoChan",
                     "repo": "HumanMAC",
-                    "stars": 326
+                    "stars": 327
                   }
                 },
                 {
@@ -6592,7 +6592,7 @@
                     "last_commit": "2024-07-04T19:05:34Z",
                     "owner": "openai",
                     "repo": "point-e",
-                    "stars": 6893
+                    "stars": 6894
                   }
                 },
                 {
@@ -6872,7 +6872,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:17:02.187Z",
+    "last_updated": "2026-08-26T16:36:50.890Z",
     "original_repository": "diff-usion/Awesome-Diffusion-Models",
     "original_repository_id": 407722319,
     "original_repository_sha": "01be334d2e258b0150093761d77ab55b789e88d3",
