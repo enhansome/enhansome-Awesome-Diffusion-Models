@@ -348,7 +348,7 @@
                     "last_commit": "2025-12-16T08:36:18Z",
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27270
+                    "stars": 27272
                   }
                 },
                 {
@@ -768,7 +768,7 @@
                     "last_commit": "2024-06-05T02:33:12Z",
                     "owner": "researchmm",
                     "repo": "MM-Diffusion",
-                    "stars": 451
+                    "stars": 452
                   }
                 },
                 {
@@ -2401,7 +2401,7 @@
                     "last_commit": "2025-07-29T12:11:31Z",
                     "owner": "XPixelGroup",
                     "repo": "DiffBIR",
-                    "stars": 4119
+                    "stars": 4121
                   }
                 },
                 {
@@ -2596,7 +2596,7 @@
                     "last_commit": "2024-08-22T06:51:45Z",
                     "owner": "Royalvice",
                     "repo": "DocDiff",
-                    "stars": 354
+                    "stars": 355
                   }
                 },
                 {
@@ -2611,7 +2611,7 @@
                     "last_commit": "2026-08-22T04:47:40Z",
                     "owner": "geekyutao",
                     "repo": "Inpaint-Anything",
-                    "stars": 7703
+                    "stars": 7704
                   }
                 },
                 {
@@ -2971,7 +2971,7 @@
                     "last_commit": "2022-08-20T13:01:44Z",
                     "owner": "andreas128",
                     "repo": "RePaint",
-                    "stars": 2267
+                    "stars": 2268
                   }
                 },
                 {
@@ -4095,7 +4095,7 @@
                     "last_commit": "2024-06-28T02:47:03Z",
                     "owner": "tencent-ailab",
                     "repo": "IP-Adapter",
-                    "stars": 6677
+                    "stars": 6678
                   }
                 },
                 {
@@ -4350,7 +4350,7 @@
                     "last_commit": "2025-12-16T08:36:18Z",
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27270
+                    "stars": 27272
                   }
                 },
                 {
@@ -4410,7 +4410,7 @@
                     "last_commit": "2023-11-11T02:45:57Z",
                     "owner": "ali-vilab",
                     "repo": "videocomposer",
-                    "stars": 954
+                    "stars": 955
                   }
                 },
                 {
@@ -4605,7 +4605,7 @@
                     "last_commit": "2023-10-12T06:32:22Z",
                     "owner": "YBYBZhang",
                     "repo": "ControlVideo",
-                    "stars": 862
+                    "stars": 863
                   }
                 },
                 {
@@ -4725,7 +4725,7 @@
                     "last_commit": "2024-03-25T03:21:18Z",
                     "owner": "Zhendong-Wang",
                     "repo": "Prompt-Diffusion",
-                    "stars": 414
+                    "stars": 413
                   }
                 },
                 {
@@ -5025,7 +5025,7 @@
                     "last_commit": "2023-05-06T22:35:28Z",
                     "owner": "Picsart-AI-Research",
                     "repo": "Text2Video-Zero",
-                    "stars": 4245
+                    "stars": 4244
                   }
                 },
                 {
@@ -5115,7 +5115,7 @@
                     "last_commit": "2024-01-06T02:41:20Z",
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 34003
+                    "stars": 34001
                   }
                 },
                 {
@@ -5265,7 +5265,7 @@
                     "last_commit": "2024-02-25T09:49:39Z",
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34091
+                    "stars": 34094
                   }
                 },
                 {
@@ -5670,7 +5670,7 @@
                     "last_commit": "2024-07-11T16:10:02Z",
                     "owner": "poloclub",
                     "repo": "diffusiondb",
-                    "stars": 1390
+                    "stars": 1391
                   }
                 },
                 {
@@ -6217,7 +6217,7 @@
                     "last_commit": "2024-06-22T19:19:14Z",
                     "owner": "openai",
                     "repo": "shap-e",
-                    "stars": 12260
+                    "stars": 12262
                   }
                 },
                 {
@@ -6592,7 +6592,7 @@
                     "last_commit": "2024-07-04T19:05:34Z",
                     "owner": "openai",
                     "repo": "point-e",
-                    "stars": 6894
+                    "stars": 6895
                   }
                 },
                 {
@@ -6872,9 +6872,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:36:50.890Z",
-    "original_repository": "diff-usion/Awesome-Diffusion-Models",
-    "original_repository_id": 407722319,
+    "last_updated": "2026-08-27T11:21:04.591Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 407722319,
+      "language": "HTML",
+      "last_commit": "2024-08-01T07:11:20Z",
+      "owner": "diff-usion",
+      "repo": "Awesome-Diffusion-Models",
+      "stars": 12363
+    },
     "original_repository_sha": "01be334d2e258b0150093761d77ab55b789e88d3",
     "enhanced_repository": "enhansome/enhansome-Awesome-Diffusion-Models",
     "enhanced_repository_description": null,
