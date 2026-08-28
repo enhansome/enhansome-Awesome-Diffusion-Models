@@ -92,7 +92,7 @@
                 "last_commit": "2024-09-04T16:15:06Z",
                 "owner": "VSehwag",
                 "repo": "minimal-diffusion",
-                "stars": 312
+                "stars": 313
               }
             },
             {
@@ -348,7 +348,7 @@
                     "last_commit": "2025-12-16T08:36:18Z",
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27272
+                    "stars": 27271
                   }
                 },
                 {
@@ -783,7 +783,7 @@
                     "last_commit": "2024-05-31T13:04:15Z",
                     "owner": "facebookresearch",
                     "repo": "DiT",
-                    "stars": 8689
+                    "stars": 8690
                   }
                 },
                 {
@@ -2611,7 +2611,7 @@
                     "last_commit": "2026-08-22T04:47:40Z",
                     "owner": "geekyutao",
                     "repo": "Inpaint-Anything",
-                    "stars": 7704
+                    "stars": 7705
                   }
                 },
                 {
@@ -4305,7 +4305,7 @@
                     "last_commit": "2024-07-31T01:14:15Z",
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12227
+                    "stars": 12228
                   }
                 },
                 {
@@ -4350,7 +4350,7 @@
                     "last_commit": "2025-12-16T08:36:18Z",
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27272
+                    "stars": 27271
                   }
                 },
                 {
@@ -4935,7 +4935,7 @@
                     "last_commit": "2025-04-12T07:46:39Z",
                     "owner": "ZGCTroy",
                     "repo": "LayoutDiffusion",
-                    "stars": 332
+                    "stars": 333
                   }
                 },
                 {
@@ -5265,7 +5265,7 @@
                     "last_commit": "2024-02-25T09:49:39Z",
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34094
+                    "stars": 34096
                   }
                 },
                 {
@@ -6247,7 +6247,7 @@
                     "last_commit": "2024-07-20T02:05:00Z",
                     "owner": "tr3e",
                     "repo": "InterGen",
-                    "stars": 330
+                    "stars": 331
                   }
                 },
                 {
@@ -6872,7 +6872,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:21:04.591Z",
+    "last_updated": "2026-08-28T00:34:52.948Z",
     "original_repository_info": {
       "archived": false,
       "id": 407722319,
@@ -6880,7 +6880,7 @@
       "last_commit": "2024-08-01T07:11:20Z",
       "owner": "diff-usion",
       "repo": "Awesome-Diffusion-Models",
-      "stars": 12363
+      "stars": 12364
     },
     "original_repository_sha": "01be334d2e258b0150093761d77ab55b789e88d3",
     "enhanced_repository": "enhansome/enhansome-Awesome-Diffusion-Models",
