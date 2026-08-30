@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "mikonvergence",
                 "repo": "DiffusionFastForward",
-                "stars": 683,
+                "stars": 684,
                 "topics": [
                   "diffusion-model",
                   "diffusion-models",
@@ -558,7 +558,7 @@
                     "open_issues": 339,
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27273,
+                    "stars": 27279,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -1212,7 +1212,7 @@
                     "open_issues": 79,
                     "owner": "facebookresearch",
                     "repo": "DiT",
-                    "stars": 8690,
+                    "stars": 8689,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -1621,7 +1621,7 @@
                     "id": 504243775,
                     "language": "Jupyter Notebook",
                     "license": "MIT",
-                    "last_commit": "2023-02-09T17:44:23Z",
+                    "last_commit": "2026-08-30T16:14:38Z",
                     "open_issues": 4,
                     "owner": "AlexGraikos",
                     "repo": "diffusion_priors",
@@ -1941,7 +1941,7 @@
                     "open_issues": 293,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14131,
+                    "stars": 14132,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -2212,7 +2212,7 @@
                     "open_issues": 113,
                     "owner": "openai",
                     "repo": "guided-diffusion",
-                    "stars": 7419,
+                    "stars": 7421,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -2397,7 +2397,7 @@
                     "open_issues": 21,
                     "owner": "hojonathanho",
                     "repo": "diffusion",
-                    "stars": 5304,
+                    "stars": 5306,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -2810,7 +2810,7 @@
                     "open_issues": 6,
                     "owner": "xmed-lab",
                     "repo": "GenericSSL",
-                    "stars": 117,
+                    "stars": 116,
                     "topics": [
                       "diffusion-models",
                       "medical-image-segmentation",
@@ -4673,7 +4673,7 @@
                     "open_issues": 293,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14131,
+                    "stars": 14132,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -4795,7 +4795,7 @@
                     "open_issues": 6,
                     "owner": "xmed-lab",
                     "repo": "GenericSSL",
-                    "stars": 117,
+                    "stars": 116,
                     "topics": [
                       "diffusion-models",
                       "medical-image-segmentation",
@@ -6740,7 +6740,7 @@
                     "open_issues": 319,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12228,
+                    "stars": 12230,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -6808,7 +6808,7 @@
                     "open_issues": 339,
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27273,
+                    "stars": 27279,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -8001,7 +8001,7 @@
                     "open_issues": 261,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33999,
+                    "stars": 33997,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -8219,7 +8219,7 @@
                     "open_issues": 460,
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34102,
+                    "stars": 34101,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -8407,7 +8407,7 @@
                     "open_issues": 119,
                     "owner": "microsoft",
                     "repo": "LMOps",
-                    "stars": 4466,
+                    "stars": 4465,
                     "topics": [
                       "agi",
                       "gpt",
@@ -8843,7 +8843,7 @@
                     "open_issues": 3,
                     "owner": "poloclub",
                     "repo": "diffusiondb",
-                    "stars": 1393,
+                    "stars": 1392,
                     "topics": [
                       "ai-art",
                       "computer-vision",
@@ -9064,7 +9064,7 @@
                     "open_issues": 293,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14131,
+                    "stars": 14132,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -9295,7 +9295,7 @@
                     "open_issues": 293,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14131,
+                    "stars": 14132,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -10761,7 +10761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T18:49:05.533Z",
+    "last_updated": "2026-08-30T18:47:51.228Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of resources and papers on Diffusion Models",
@@ -10773,7 +10773,7 @@
       "open_issues": 27,
       "owner": "diff-usion",
       "repo": "Awesome-Diffusion-Models",
-      "stars": 12365,
+      "stars": 12364,
       "topics": [
         "artificial-intelligence",
         "diffusion-models",
