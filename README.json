@@ -345,7 +345,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2024-01-20T07:03:10Z",
-                    "open_issues": 1,
+                    "open_issues": 0,
                     "owner": "AlexMaOLS",
                     "repo": "EluCD",
                     "stars": 33,
@@ -558,7 +558,7 @@
                     "open_issues": 339,
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27280,
+                    "stars": 27279,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -1625,7 +1625,7 @@
                     "open_issues": 4,
                     "owner": "AlexGraikos",
                     "repo": "diffusion_priors",
-                    "stars": 212,
+                    "stars": 213,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -1941,7 +1941,7 @@
                     "open_issues": 293,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14133,
+                    "stars": 14135,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -2212,7 +2212,7 @@
                     "open_issues": 113,
                     "owner": "openai",
                     "repo": "guided-diffusion",
-                    "stars": 7421,
+                    "stars": 7420,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -2323,7 +2323,7 @@
                     "open_issues": 17,
                     "owner": "yang-song",
                     "repo": "score_sde",
-                    "stars": 1844,
+                    "stars": 1845,
                     "topics": [
                       "controllable-generation",
                       "diffusion-models",
@@ -2663,7 +2663,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2023-05-25T00:42:30Z",
-                    "open_issues": 3,
+                    "open_issues": 2,
                     "owner": "yongchaoz",
                     "repo": "diffusion_inversion",
                     "stars": 49,
@@ -3288,7 +3288,7 @@
                     "open_issues": 15,
                     "owner": "wgcban",
                     "repo": "ddpm-cd",
-                    "stars": 348,
+                    "stars": 349,
                     "topics": [
                       "change-detection",
                       "climate-change",
@@ -3720,7 +3720,7 @@
                     "open_issues": 120,
                     "owner": "XPixelGroup",
                     "repo": "DiffBIR",
-                    "stars": 4123,
+                    "stars": 4122,
                     "topics": [
                       "image-enhancement",
                       "image-restoration"
@@ -3880,7 +3880,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2024-02-05T13:50:18Z",
-                    "open_issues": 7,
+                    "open_issues": 6,
                     "owner": "zhenqi-he",
                     "repo": "ArtiFusion",
                     "stars": 27,
@@ -3910,7 +3910,7 @@
                     "open_issues": 108,
                     "owner": "zsyOAOA",
                     "repo": "ResShift",
-                    "stars": 1426,
+                    "stars": 1427,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -4061,7 +4061,7 @@
                     "open_issues": 114,
                     "owner": "geekyutao",
                     "repo": "Inpaint-Anything",
-                    "stars": 7702,
+                    "stars": 7703,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -4267,7 +4267,7 @@
                     "open_issues": 6,
                     "owner": "rmpku",
                     "repo": "CIN",
-                    "stars": 64,
+                    "stars": 65,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -4309,7 +4309,7 @@
                     "open_issues": 51,
                     "owner": "wyhuai",
                     "repo": "DDNM",
-                    "stars": 1349,
+                    "stars": 1351,
                     "topics": [
                       "diffusion-models",
                       "iclr",
@@ -4673,7 +4673,7 @@
                     "open_issues": 293,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14133,
+                    "stars": 14135,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -5359,7 +5359,7 @@
                     "open_issues": 0,
                     "owner": "AntanasKascenas",
                     "repo": "DenoisingAE",
-                    "stars": 58,
+                    "stars": 57,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -5654,7 +5654,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2024-01-20T07:03:10Z",
-                    "open_issues": 1,
+                    "open_issues": 0,
                     "owner": "AlexMaOLS",
                     "repo": "EluCD",
                     "stars": 33,
@@ -6187,7 +6187,7 @@
                     "open_issues": 6,
                     "owner": "YoungSeng",
                     "repo": "DiffuseStyleGesture",
-                    "stars": 214,
+                    "stars": 215,
                     "topics": [
                       "diffusion-models",
                       "gesture-generation",
@@ -6396,7 +6396,7 @@
                     "open_issues": 301,
                     "owner": "tencent-ailab",
                     "repo": "IP-Adapter",
-                    "stars": 6680,
+                    "stars": 6682,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -6740,7 +6740,7 @@
                     "open_issues": 319,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12232,
+                    "stars": 12231,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -6808,7 +6808,7 @@
                     "open_issues": 339,
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27280,
+                    "stars": 27279,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -6850,7 +6850,7 @@
                     "open_issues": 3,
                     "owner": "KAIST-Visual-AI-Group",
                     "repo": "SyncDiffusion",
-                    "stars": 169,
+                    "stars": 170,
                     "topics": [
                       "diffusion-models",
                       "generative-model",
@@ -7369,7 +7369,7 @@
                     "open_issues": 6,
                     "owner": "YoungSeng",
                     "repo": "DiffuseStyleGesture",
-                    "stars": 214,
+                    "stars": 215,
                     "topics": [
                       "diffusion-models",
                       "gesture-generation",
@@ -8001,7 +8001,7 @@
                     "open_issues": 261,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33996,
+                    "stars": 33993,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -8219,7 +8219,7 @@
                     "open_issues": 460,
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34102,
+                    "stars": 34104,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -9064,7 +9064,7 @@
                     "open_issues": 293,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14133,
+                    "stars": 14135,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -9295,7 +9295,7 @@
                     "open_issues": 293,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14133,
+                    "stars": 14135,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -9523,7 +9523,7 @@
                     "open_issues": 6,
                     "owner": "YoungSeng",
                     "repo": "DiffuseStyleGesture",
-                    "stars": 214,
+                    "stars": 215,
                     "topics": [
                       "diffusion-models",
                       "gesture-generation",
@@ -9742,7 +9742,7 @@
                     "open_issues": 108,
                     "owner": "openai",
                     "repo": "shap-e",
-                    "stars": 12264,
+                    "stars": 12265,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -10761,7 +10761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:03:09.568Z",
+    "last_updated": "2026-09-01T18:47:39.704Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of resources and papers on Diffusion Models",
@@ -10773,7 +10773,7 @@
       "open_issues": 27,
       "owner": "diff-usion",
       "repo": "Awesome-Diffusion-Models",
-      "stars": 12364,
+      "stars": 12365,
       "topics": [
         "artificial-intelligence",
         "diffusion-models",
