@@ -492,10 +492,10 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2026-06-09T05:59:59Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "nachifur",
                     "repo": "RDDM",
-                    "stars": 582,
+                    "stars": 583,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -558,7 +558,7 @@
                     "open_issues": 339,
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27283,
+                    "stars": 27287,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -886,7 +886,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2024-04-23T18:53:04Z",
-                    "open_issues": 18,
+                    "open_issues": 19,
                     "owner": "sail-sg",
                     "repo": "MDT",
                     "stars": 597,
@@ -1212,7 +1212,7 @@
                     "open_issues": 79,
                     "owner": "facebookresearch",
                     "repo": "DiT",
-                    "stars": 8684,
+                    "stars": 8683,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -1355,7 +1355,7 @@
                     "open_issues": 30,
                     "owner": "LuChengTHU",
                     "repo": "dpm-solver",
-                    "stars": 1855,
+                    "stars": 1856,
                     "topics": [
                       "diffusion-models",
                       "machine-learning",
@@ -1507,7 +1507,7 @@
                     "open_issues": 15,
                     "owner": "arpitbansal297",
                     "repo": "Cold-Diffusion-Models",
-                    "stars": 1136,
+                    "stars": 1137,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -1667,7 +1667,7 @@
                     "open_issues": 1,
                     "owner": "baofff",
                     "repo": "Extended-Analytic-DPM",
-                    "stars": 109,
+                    "stars": 108,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -1735,7 +1735,7 @@
                     "open_issues": 30,
                     "owner": "LuChengTHU",
                     "repo": "dpm-solver",
-                    "stars": 1855,
+                    "stars": 1856,
                     "topics": [
                       "diffusion-models",
                       "machine-learning",
@@ -2086,7 +2086,7 @@
                     "open_issues": 7,
                     "owner": "google-research",
                     "repo": "vdm",
-                    "stars": 331,
+                    "stars": 332,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -2212,7 +2212,7 @@
                     "open_issues": 113,
                     "owner": "openai",
                     "repo": "guided-diffusion",
-                    "stars": 7423,
+                    "stars": 7425,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -3285,7 +3285,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2024-12-08T18:49:35Z",
-                    "open_issues": 15,
+                    "open_issues": 16,
                     "owner": "wgcban",
                     "repo": "ddpm-cd",
                     "stars": 349,
@@ -3441,7 +3441,7 @@
                     "open_issues": 12,
                     "owner": "cyclomon",
                     "repo": "UNSB",
-                    "stars": 289,
+                    "stars": 290,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -3717,7 +3717,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-07-29T12:11:31Z",
-                    "open_issues": 120,
+                    "open_issues": 121,
                     "owner": "XPixelGroup",
                     "repo": "DiffBIR",
                     "stars": 4123,
@@ -3741,10 +3741,10 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2026-06-09T05:59:59Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "nachifur",
                     "repo": "RDDM",
-                    "stars": 582,
+                    "stars": 583,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -3907,7 +3907,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-07-08T11:06:15Z",
-                    "open_issues": 108,
+                    "open_issues": 109,
                     "owner": "zsyOAOA",
                     "repo": "ResShift",
                     "stars": 1427,
@@ -3995,10 +3995,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2024-07-12T03:13:49Z",
-                    "open_issues": 92,
+                    "open_issues": 93,
                     "owner": "IceClear",
                     "repo": "StableSR",
-                    "stars": 2669,
+                    "stars": 2668,
                     "topics": [
                       "stable-diffusion",
                       "stablesr",
@@ -4023,7 +4023,7 @@
                     "open_issues": 19,
                     "owner": "Royalvice",
                     "repo": "DocDiff",
-                    "stars": 357,
+                    "stars": 358,
                     "topics": [
                       "dataset",
                       "deblurring",
@@ -4079,7 +4079,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2024-07-23T09:34:46Z",
-                    "open_issues": 104,
+                    "open_issues": 105,
                     "owner": "Algolzw",
                     "repo": "image-restoration-sde",
                     "stars": 724,
@@ -4231,7 +4231,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2024-07-23T09:34:46Z",
-                    "open_issues": 104,
+                    "open_issues": 105,
                     "owner": "Algolzw",
                     "repo": "image-restoration-sde",
                     "stars": 724,
@@ -4487,7 +4487,7 @@
                     "open_issues": 15,
                     "owner": "arpitbansal297",
                     "repo": "Cold-Diffusion-Models",
-                    "stars": 1136,
+                    "stars": 1137,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -5899,7 +5899,7 @@
                     "open_issues": 4,
                     "owner": "PixArt-alpha",
                     "repo": "PixArt-alpha",
-                    "stars": 3304,
+                    "stars": 3305,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -6115,7 +6115,7 @@
                     "open_issues": 40,
                     "owner": "liuyuan-pal",
                     "repo": "SyncDreamer",
-                    "stars": 1044,
+                    "stars": 1045,
                     "topics": [
                       "3d-reconstruction",
                       "diffusion-models",
@@ -6396,7 +6396,7 @@
                     "open_issues": 301,
                     "owner": "tencent-ailab",
                     "repo": "IP-Adapter",
-                    "stars": 6685,
+                    "stars": 6688,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -6740,7 +6740,7 @@
                     "open_issues": 319,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12241,
+                    "stars": 12244,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -6808,7 +6808,7 @@
                     "open_issues": 339,
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27283,
+                    "stars": 27287,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -7254,7 +7254,7 @@
                     "language": "Jupyter Notebook",
                     "license": "MIT",
                     "last_commit": "2024-09-27T10:04:43Z",
-                    "open_issues": 35,
+                    "open_issues": 36,
                     "owner": "microsoft",
                     "repo": "i-Code",
                     "stars": 1704,
@@ -7620,7 +7620,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2024-04-22T00:57:00Z",
-                    "open_issues": 13,
+                    "open_issues": 14,
                     "owner": "MotrixLab",
                     "repo": "ReMoDiffuse",
                     "stars": 381,
@@ -8001,7 +8001,7 @@
                     "open_issues": 261,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33984,
+                    "stars": 33981,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -8216,10 +8216,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2024-02-25T09:49:39Z",
-                    "open_issues": 460,
+                    "open_issues": 461,
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34113,
+                    "stars": 34115,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -8407,7 +8407,7 @@
                     "open_issues": 119,
                     "owner": "microsoft",
                     "repo": "LMOps",
-                    "stars": 4473,
+                    "stars": 4474,
                     "topics": [
                       "agi",
                       "gpt",
@@ -8752,7 +8752,7 @@
                     "open_issues": 10,
                     "owner": "SHI-Labs",
                     "repo": "Versatile-Diffusion",
-                    "stars": 1334,
+                    "stars": 1333,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -9270,7 +9270,7 @@
                     "open_issues": 73,
                     "owner": "lucidrains",
                     "repo": "DALLE2-pytorch",
-                    "stars": 11300,
+                    "stars": 11298,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -9463,7 +9463,7 @@
                     "open_issues": 40,
                     "owner": "liuyuan-pal",
                     "repo": "SyncDreamer",
-                    "stars": 1044,
+                    "stars": 1045,
                     "topics": [
                       "3d-reconstruction",
                       "diffusion-models",
@@ -9827,7 +9827,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2024-04-22T00:57:00Z",
-                    "open_issues": 13,
+                    "open_issues": 14,
                     "owner": "MotrixLab",
                     "repo": "ReMoDiffuse",
                     "stars": 381,
@@ -9939,7 +9939,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2024-03-20T05:21:35Z",
-                    "open_issues": 17,
+                    "open_issues": 18,
                     "owner": "paTRICK-swk",
                     "repo": "D3DP",
                     "stars": 200,
@@ -9963,7 +9963,7 @@
                     "open_issues": 61,
                     "owner": "cvlab-columbia",
                     "repo": "zero123",
-                    "stars": 3061,
+                    "stars": 3062,
                     "topics": [
                       "image-to-3d",
                       "novel-view-synthesis",
@@ -10417,7 +10417,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2023-12-28T06:48:06Z",
-                    "open_issues": 20,
+                    "open_issues": 21,
                     "owner": "GONGJIA0208",
                     "repo": "Diffpose",
                     "stars": 195,
@@ -10447,7 +10447,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2024-03-20T05:21:35Z",
-                    "open_issues": 17,
+                    "open_issues": 18,
                     "owner": "paTRICK-swk",
                     "repo": "D3DP",
                     "stars": 200,
@@ -10761,7 +10761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T18:19:31.573Z",
+    "last_updated": "2026-09-14T19:55:36.737Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of resources and papers on Diffusion Models",
