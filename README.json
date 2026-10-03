@@ -558,7 +558,7 @@
                     "open_issues": 339,
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27301,
+                    "stars": 27300,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -868,7 +868,7 @@
                     "open_issues": 25,
                     "owner": "dbolya",
                     "repo": "tomesd",
-                    "stars": 1402,
+                    "stars": 1401,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -2397,7 +2397,7 @@
                     "open_issues": 20,
                     "owner": "hojonathanho",
                     "repo": "diffusion",
-                    "stars": 5340,
+                    "stars": 5341,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -4061,7 +4061,7 @@
                     "open_issues": 114,
                     "owner": "geekyutao",
                     "repo": "Inpaint-Anything",
-                    "stars": 7722,
+                    "stars": 7723,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -6141,7 +6141,7 @@
                     "open_issues": 2,
                     "owner": "shanemankiw",
                     "repo": "Panodiff",
-                    "stars": 61,
+                    "stars": 62,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -6396,7 +6396,7 @@
                     "open_issues": 301,
                     "owner": "tencent-ailab",
                     "repo": "IP-Adapter",
-                    "stars": 6696,
+                    "stars": 6697,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -6808,7 +6808,7 @@
                     "open_issues": 339,
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27301,
+                    "stars": 27300,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -7065,7 +7065,7 @@
                     "open_issues": 23,
                     "owner": "ShihaoZhaoZSH",
                     "repo": "Uni-ControlNet",
-                    "stars": 666,
+                    "stars": 667,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -7247,7 +7247,7 @@
                   "description": "] [Project] [Github] 19 May 2023",
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "description": null,
                     "homepage": null,
                     "id": 575603626,
@@ -7774,7 +7774,7 @@
                     "open_issues": 4,
                     "owner": "VinAIResearch",
                     "repo": "Anti-DreamBooth",
-                    "stars": 290,
+                    "stars": 293,
                     "topics": [
                       "adversarial-attacks",
                       "dreambooth",
@@ -7920,7 +7920,7 @@
                     "open_issues": 12,
                     "owner": "ChenyangQiQi",
                     "repo": "FateZero",
-                    "stars": 1162,
+                    "stars": 1163,
                     "topics": [
                       "image-editing",
                       "stable-diffusion",
@@ -8001,7 +8001,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33974,
+                    "stars": 33973,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -10011,7 +10011,7 @@
                     "open_issues": 0,
                     "owner": "Advocate99",
                     "repo": "DiffGesture",
-                    "stars": 265,
+                    "stars": 264,
                     "topics": [
                       "aigc",
                       "animation",
@@ -10761,7 +10761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:25:31.521Z",
+    "last_updated": "2026-10-03T18:48:29.269Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of resources and papers on Diffusion Models",
@@ -10773,7 +10773,7 @@
       "open_issues": 28,
       "owner": "diff-usion",
       "repo": "Awesome-Diffusion-Models",
-      "stars": 12375,
+      "stars": 12377,
       "topics": [
         "artificial-intelligence",
         "diffusion-models",
