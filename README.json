@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": ":fast_forward: DiffusionFastForward: train from scratch in colab Mikolaj Czerkawski (@mikonvergence) [Github",
-              "description": "] [notebook]",
+              "description": "mikonvergence/DiffusionFastForward",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -38,7 +38,7 @@
             {
               "node_type": "item",
               "title": "diffusion-for-beginners ozanciga [Github",
-              "description": "]",
+              "description": "ozanciga/diffusion-for-beginners",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -93,7 +93,7 @@
             {
               "node_type": "item",
               "title": "Diffusion_models_tutorial FilippoMB [Github",
-              "description": "]",
+              "description": "FilippoMB/Diffusion_models_tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -124,7 +124,7 @@
             {
               "node_type": "item",
               "title": "ScoreDiffusionModel JeongJiHeon [Github",
-              "description": "]",
+              "description": "JeongJiHeon/ScoreDiffusionModel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -150,7 +150,7 @@
             {
               "node_type": "item",
               "title": "Minimal implementation of diffusion models VSehwag [Github",
-              "description": "]",
+              "description": "VSehwag/minimal-diffusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -171,7 +171,7 @@
             {
               "node_type": "item",
               "title": "diffusion_tutorial sunlin-ai [Github",
-              "description": "]",
+              "description": "sunlin-ai/diffusion_tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -192,7 +192,7 @@
             {
               "node_type": "item",
               "title": "Denoising diffusion probabilistic models acids-ircam [Github",
-              "description": "]",
+              "description": "acids-ircam/diffusion_models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1941,7 +1941,7 @@
                     "open_issues": 292,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14162,
+                    "stars": 14163,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -4673,7 +4673,7 @@
                     "open_issues": 292,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14162,
+                    "stars": 14163,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -6740,7 +6740,7 @@
                     "open_issues": 318,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12260,
+                    "stars": 12262,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -7774,7 +7774,7 @@
                     "open_issues": 4,
                     "owner": "VinAIResearch",
                     "repo": "Anti-DreamBooth",
-                    "stars": 286,
+                    "stars": 290,
                     "topics": [
                       "adversarial-attacks",
                       "dreambooth",
@@ -9064,7 +9064,7 @@
                     "open_issues": 292,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14162,
+                    "stars": 14163,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -9295,7 +9295,7 @@
                     "open_issues": 292,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14162,
+                    "stars": 14163,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -10761,7 +10761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:06:41.266Z",
+    "last_updated": "2026-10-03T04:25:31.521Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of resources and papers on Diffusion Models",
