@@ -233,7 +233,7 @@
                 "open_issues": 2,
                 "owner": "amirhossein-kz",
                 "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-                "stars": 2111,
+                "stars": 2112,
                 "topics": [
                   "ddpm",
                   "deep-learning",
@@ -558,7 +558,7 @@
                     "open_issues": 338,
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27302,
+                    "stars": 27303,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -1212,7 +1212,7 @@
                     "open_issues": 79,
                     "owner": "facebookresearch",
                     "repo": "DiT",
-                    "stars": 8675,
+                    "stars": 8676,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -1938,7 +1938,7 @@
                     "language": "Jupyter Notebook",
                     "license": "MIT",
                     "last_commit": "2024-02-29T05:29:47Z",
-                    "open_issues": 293,
+                    "open_issues": 294,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
                     "stars": 14175,
@@ -2012,7 +2012,7 @@
                     "open_issues": 5,
                     "owner": "qsh-zh",
                     "repo": "DiffFlow",
-                    "stars": 120,
+                    "stars": 121,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -2212,7 +2212,7 @@
                     "open_issues": 114,
                     "owner": "openai",
                     "repo": "guided-diffusion",
-                    "stars": 7439,
+                    "stars": 7440,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -2397,7 +2397,7 @@
                     "open_issues": 20,
                     "owner": "hojonathanho",
                     "repo": "diffusion",
-                    "stars": 5342,
+                    "stars": 5343,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -2445,7 +2445,7 @@
                     "open_issues": 9,
                     "owner": "ermongroup",
                     "repo": "ncsn",
-                    "stars": 796,
+                    "stars": 797,
                     "topics": [
                       "generative-models",
                       "neurips-2019",
@@ -2471,7 +2471,7 @@
                     "open_issues": 1,
                     "owner": "Sohl-Dickstein",
                     "repo": "Diffusion-Probabilistic-Models",
-                    "stars": 545,
+                    "stars": 546,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -3720,7 +3720,7 @@
                     "open_issues": 121,
                     "owner": "XPixelGroup",
                     "repo": "DiffBIR",
-                    "stars": 4127,
+                    "stars": 4126,
                     "topics": [
                       "image-enhancement",
                       "image-restoration"
@@ -4061,7 +4061,7 @@
                     "open_issues": 114,
                     "owner": "geekyutao",
                     "repo": "Inpaint-Anything",
-                    "stars": 7727,
+                    "stars": 7729,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -4309,7 +4309,7 @@
                     "open_issues": 51,
                     "owner": "wyhuai",
                     "repo": "DDNM",
-                    "stars": 1360,
+                    "stars": 1361,
                     "topics": [
                       "diffusion-models",
                       "iclr",
@@ -4420,7 +4420,7 @@
                     "open_issues": 17,
                     "owner": "DPS2022",
                     "repo": "diffusion-posterior-sampling",
-                    "stars": 677,
+                    "stars": 678,
                     "topics": [
                       "diffusion-model",
                       "inverse-problems",
@@ -4670,7 +4670,7 @@
                     "language": "Jupyter Notebook",
                     "license": "MIT",
                     "last_commit": "2024-02-29T05:29:47Z",
-                    "open_issues": 293,
+                    "open_issues": 294,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
                     "stars": 14175,
@@ -5920,7 +5920,7 @@
                     "open_issues": 12,
                     "owner": "TonyLianLong",
                     "repo": "LLM-groundedDiffusion",
-                    "stars": 485,
+                    "stars": 486,
                     "topics": [
                       "image-generation",
                       "llm",
@@ -6342,7 +6342,7 @@
                     "open_issues": 17,
                     "owner": "wenhaochai",
                     "repo": "StableVideo",
-                    "stars": 1435,
+                    "stars": 1434,
                     "topics": [
                       "aigc",
                       "computer-vision",
@@ -6740,7 +6740,7 @@
                     "open_issues": 320,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12273,
+                    "stars": 12274,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -6808,7 +6808,7 @@
                     "open_issues": 338,
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27302,
+                    "stars": 27303,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -8001,7 +8001,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33947,
+                    "stars": 33946,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -8127,7 +8127,7 @@
                     "open_issues": 96,
                     "owner": "TencentARC",
                     "repo": "T2I-Adapter",
-                    "stars": 3797,
+                    "stars": 3796,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -8219,7 +8219,7 @@
                     "open_issues": 461,
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34122,
+                    "stars": 34127,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -8337,7 +8337,7 @@
                     "open_issues": 8,
                     "owner": "yuval-alaluf",
                     "repo": "Attend-and-Excite",
-                    "stars": 771,
+                    "stars": 772,
                     "topics": [
                       "diffusion-models",
                       "stable-diffusion",
@@ -8752,7 +8752,7 @@
                     "open_issues": 10,
                     "owner": "SHI-Labs",
                     "repo": "Versatile-Diffusion",
-                    "stars": 1332,
+                    "stars": 1331,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -9061,7 +9061,7 @@
                     "language": "Jupyter Notebook",
                     "license": "MIT",
                     "last_commit": "2024-02-29T05:29:47Z",
-                    "open_issues": 293,
+                    "open_issues": 294,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
                     "stars": 14175,
@@ -9292,7 +9292,7 @@
                     "language": "Jupyter Notebook",
                     "license": "MIT",
                     "last_commit": "2024-02-29T05:29:47Z",
-                    "open_issues": 293,
+                    "open_issues": 294,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
                     "stars": 14175,
@@ -9489,7 +9489,7 @@
                     "open_issues": 5,
                     "owner": "Sirui-Xu",
                     "repo": "InterDiff",
-                    "stars": 287,
+                    "stars": 286,
                     "topics": [
                       "3d-human-pose",
                       "6d",
@@ -9742,7 +9742,7 @@
                     "open_issues": 108,
                     "owner": "openai",
                     "repo": "shap-e",
-                    "stars": 12263,
+                    "stars": 12264,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -10903,7 +10903,7 @@
                     "open_issues": 10,
                     "owner": "MadryLab",
                     "repo": "photoguard",
-                    "stars": 700,
+                    "stars": 701,
                     "topics": [
                       "adversarial-attacks",
                       "adversarial-examples",
@@ -11672,7 +11672,7 @@
                     "id": 615181319,
                     "language": "Jupyter Notebook",
                     "license": "MIT",
-                    "last_commit": "2024-11-13T14:13:37Z",
+                    "last_commit": "2026-10-20T05:29:32Z",
                     "open_issues": 3,
                     "owner": "yunqing-me",
                     "repo": "WatermarkDM",
@@ -11840,7 +11840,7 @@
                     "open_issues": 5,
                     "owner": "grip-unina",
                     "repo": "DMimageDetection",
-                    "stars": 242,
+                    "stars": 243,
                     "topics": []
                   },
                   "first_seen": "2026-10-06T10:31:45.922Z"
@@ -12282,7 +12282,7 @@
                     "open_issues": 57,
                     "owner": "haoheliu",
                     "repo": "versatile_audio_super_resolution",
-                    "stars": 1982,
+                    "stars": 1984,
                     "topics": []
                   },
                   "first_seen": "2026-10-06T10:31:45.922Z"
@@ -12818,7 +12818,7 @@
                     "open_issues": 0,
                     "owner": "RF5",
                     "repo": "transfusion-asr",
-                    "stars": 80,
+                    "stars": 79,
                     "topics": [
                       "asr",
                       "binomial-distribution",
@@ -14245,7 +14245,7 @@
                 "open_issues": 43,
                 "owner": "atong01",
                 "repo": "conditional-flow-matching",
-                "stars": 2601,
+                "stars": 2602,
                 "topics": [
                   "continuous-normalizing-flows",
                   "optimal-transport",
@@ -14344,7 +14344,7 @@
                 "open_issues": 5,
                 "owner": "JavierAntoran",
                 "repo": "Bayesian-Neural-Networks",
-                "stars": 1978,
+                "stars": 1979,
                 "topics": [
                   "approximate-inference",
                   "bayes-by-backprop",
@@ -14548,7 +14548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T20:41:33.137Z",
+    "last_updated": "2026-10-20T19:33:17.675Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of resources and papers on Diffusion Models",
