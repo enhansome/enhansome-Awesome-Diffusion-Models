@@ -163,7 +163,7 @@
                 "open_issues": 3,
                 "owner": "VSehwag",
                 "repo": "minimal-diffusion",
-                "stars": 313,
+                "stars": 312,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:04.306Z"
@@ -1212,7 +1212,7 @@
                     "open_issues": 79,
                     "owner": "facebookresearch",
                     "repo": "DiT",
-                    "stars": 8677,
+                    "stars": 8676,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -1941,7 +1941,7 @@
                     "open_issues": 295,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14180,
+                    "stars": 14181,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -2212,7 +2212,7 @@
                     "open_issues": 114,
                     "owner": "openai",
                     "repo": "guided-diffusion",
-                    "stars": 7442,
+                    "stars": 7443,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -2397,7 +2397,7 @@
                     "open_issues": 20,
                     "owner": "hojonathanho",
                     "repo": "diffusion",
-                    "stars": 5350,
+                    "stars": 5352,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -4061,7 +4061,7 @@
                     "open_issues": 114,
                     "owner": "geekyutao",
                     "repo": "Inpaint-Anything",
-                    "stars": 7732,
+                    "stars": 7733,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -4673,7 +4673,7 @@
                     "open_issues": 295,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14180,
+                    "stars": 14181,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -6138,10 +6138,10 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2025-08-01T03:21:16Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "shanemankiw",
                     "repo": "Panodiff",
-                    "stars": 62,
+                    "stars": 63,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -6187,7 +6187,7 @@
                     "open_issues": 6,
                     "owner": "YoungSeng",
                     "repo": "DiffuseStyleGesture",
-                    "stars": 215,
+                    "stars": 216,
                     "topics": [
                       "diffusion-models",
                       "gesture-generation",
@@ -6396,7 +6396,7 @@
                     "open_issues": 301,
                     "owner": "tencent-ailab",
                     "repo": "IP-Adapter",
-                    "stars": 6700,
+                    "stars": 6701,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -6459,7 +6459,7 @@
                     "open_issues": 49,
                     "owner": "alibaba",
                     "repo": "EasyNLP",
-                    "stars": 2187,
+                    "stars": 2188,
                     "topics": [
                       "bert",
                       "deep-learning",
@@ -6740,7 +6740,7 @@
                     "open_issues": 320,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12280,
+                    "stars": 12279,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -7299,7 +7299,7 @@
                     "open_issues": 3,
                     "owner": "HeliosZhao",
                     "repo": "Make-A-Protagonist",
-                    "stars": 321,
+                    "stars": 322,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -7369,7 +7369,7 @@
                     "open_issues": 6,
                     "owner": "YoungSeng",
                     "repo": "DiffuseStyleGesture",
-                    "stars": 215,
+                    "stars": 216,
                     "topics": [
                       "diffusion-models",
                       "gesture-generation",
@@ -7920,7 +7920,7 @@
                     "open_issues": 12,
                     "owner": "ChenyangQiQi",
                     "repo": "FateZero",
-                    "stars": 1162,
+                    "stars": 1161,
                     "topics": [
                       "image-editing",
                       "stable-diffusion",
@@ -8001,7 +8001,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33941,
+                    "stars": 33939,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -8043,7 +8043,7 @@
                     "open_issues": 24,
                     "owner": "thu-ml",
                     "repo": "unidiffuser",
-                    "stars": 1488,
+                    "stars": 1489,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -8219,7 +8219,7 @@
                     "open_issues": 461,
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34137,
+                    "stars": 34139,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -8269,7 +8269,7 @@
                     "open_issues": 1,
                     "owner": "YuxinWenRick",
                     "repo": "hard-prompts-made-easy",
-                    "stars": 647,
+                    "stars": 648,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -8397,7 +8397,7 @@
                   "description": "] [Project] [Github] 19 Dec 2022",
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "description": "General technology for enabling AI capabilities w/ LLMs and MLLMs",
                     "homepage": "https://aka.ms/GeneralAI",
                     "id": 577753426,
@@ -8579,7 +8579,7 @@
                     "open_issues": 3,
                     "owner": "gmkim-ai",
                     "repo": "Diffusion-Video-Autoencoders",
-                    "stars": 151,
+                    "stars": 152,
                     "topics": [
                       "cvpr2023",
                       "deep-learning",
@@ -8843,7 +8843,7 @@
                     "open_issues": 3,
                     "owner": "poloclub",
                     "repo": "diffusiondb",
-                    "stars": 1405,
+                    "stars": 1406,
                     "topics": [
                       "ai-art",
                       "computer-vision",
@@ -9064,7 +9064,7 @@
                     "open_issues": 295,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14180,
+                    "stars": 14181,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -9173,7 +9173,7 @@
                     "open_issues": 36,
                     "owner": "microsoft",
                     "repo": "VQ-Diffusion",
-                    "stars": 986,
+                    "stars": 985,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -9217,7 +9217,7 @@
                     "open_issues": 105,
                     "owner": "lucidrains",
                     "repo": "imagen-pytorch",
-                    "stars": 8431,
+                    "stars": 8433,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -9270,7 +9270,7 @@
                     "open_issues": 73,
                     "owner": "lucidrains",
                     "repo": "DALLE2-pytorch",
-                    "stars": 11304,
+                    "stars": 11305,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -9295,7 +9295,7 @@
                     "open_issues": 295,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14180,
+                    "stars": 14181,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -9316,7 +9316,7 @@
                     "open_issues": 36,
                     "owner": "microsoft",
                     "repo": "VQ-Diffusion",
-                    "stars": 986,
+                    "stars": 985,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -9523,7 +9523,7 @@
                     "open_issues": 6,
                     "owner": "YoungSeng",
                     "repo": "DiffuseStyleGesture",
-                    "stars": 215,
+                    "stars": 216,
                     "topics": [
                       "diffusion-models",
                       "gesture-generation",
@@ -9784,7 +9784,7 @@
                     "open_issues": 41,
                     "owner": "tr3e",
                     "repo": "InterGen",
-                    "stars": 333,
+                    "stars": 334,
                     "topics": [
                       "human-motion-generation",
                       "multi-agent",
@@ -10163,7 +10163,7 @@
                     "open_issues": 0,
                     "owner": "SinMDM",
                     "repo": "SinMDM",
-                    "stars": 412,
+                    "stars": 413,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -10903,7 +10903,7 @@
                     "open_issues": 10,
                     "owner": "MadryLab",
                     "repo": "photoguard",
-                    "stars": 702,
+                    "stars": 704,
                     "topics": [
                       "adversarial-attacks",
                       "adversarial-examples",
@@ -11624,7 +11624,7 @@
                     "open_issues": 0,
                     "owner": "TuBui",
                     "repo": "RoSteALS",
-                    "stars": 113,
+                    "stars": 114,
                     "topics": [
                       "autoencoder",
                       "diffusion",
@@ -12282,7 +12282,7 @@
                     "open_issues": 57,
                     "owner": "haoheliu",
                     "repo": "versatile_audio_super_resolution",
-                    "stars": 1988,
+                    "stars": 1989,
                     "topics": []
                   },
                   "first_seen": "2026-10-06T10:31:45.922Z"
@@ -12518,7 +12518,7 @@
                     "open_issues": 88,
                     "owner": "haoheliu",
                     "repo": "AudioLDM",
-                    "stars": 2918,
+                    "stars": 2917,
                     "topics": [
                       "audio-generation"
                     ]
@@ -14548,7 +14548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T18:32:09.239Z",
+    "last_updated": "2026-10-26T20:43:20.158Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of resources and papers on Diffusion Models",
