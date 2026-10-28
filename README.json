@@ -558,7 +558,7 @@
                     "open_issues": 338,
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27312,
+                    "stars": 27314,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -1212,7 +1212,7 @@
                     "open_issues": 79,
                     "owner": "facebookresearch",
                     "repo": "DiT",
-                    "stars": 8676,
+                    "stars": 8675,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -1507,7 +1507,7 @@
                     "open_issues": 15,
                     "owner": "arpitbansal297",
                     "repo": "Cold-Diffusion-Models",
-                    "stars": 1136,
+                    "stars": 1137,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -1941,7 +1941,7 @@
                     "open_issues": 295,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14180,
+                    "stars": 14181,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -2212,7 +2212,7 @@
                     "open_issues": 114,
                     "owner": "openai",
                     "repo": "guided-diffusion",
-                    "stars": 7441,
+                    "stars": 7442,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -2233,7 +2233,7 @@
                     "open_issues": 56,
                     "owner": "Janspiry",
                     "repo": "Image-Super-Resolution-via-Iterative-Refinement",
-                    "stars": 3922,
+                    "stars": 3921,
                     "topics": [
                       "ddpm",
                       "diffusion-probabilistic",
@@ -2323,7 +2323,7 @@
                     "open_issues": 17,
                     "owner": "yang-song",
                     "repo": "score_sde",
-                    "stars": 1851,
+                    "stars": 1852,
                     "topics": [
                       "controllable-generation",
                       "diffusion-models",
@@ -2397,7 +2397,7 @@
                     "open_issues": 20,
                     "owner": "hojonathanho",
                     "repo": "diffusion",
-                    "stars": 5352,
+                    "stars": 5353,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -2736,7 +2736,7 @@
                     "open_issues": 72,
                     "owner": "ShoufaChen",
                     "repo": "DiffusionDet",
-                    "stars": 2260,
+                    "stars": 2259,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -3114,7 +3114,7 @@
                     "open_issues": 40,
                     "owner": "ZrrSkywalker",
                     "repo": "Personalize-SAM",
-                    "stars": 1677,
+                    "stars": 1678,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -3135,7 +3135,7 @@
                     "open_issues": 40,
                     "owner": "ZrrSkywalker",
                     "repo": "Personalize-SAM",
-                    "stars": 1677,
+                    "stars": 1678,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -4487,7 +4487,7 @@
                     "open_issues": 15,
                     "owner": "arpitbansal297",
                     "repo": "Cold-Diffusion-Models",
-                    "stars": 1136,
+                    "stars": 1137,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -4673,7 +4673,7 @@
                     "open_issues": 295,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14180,
+                    "stars": 14181,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -4761,7 +4761,7 @@
                     "open_issues": 56,
                     "owner": "Janspiry",
                     "repo": "Image-Super-Resolution-via-Iterative-Refinement",
-                    "stars": 3922,
+                    "stars": 3921,
                     "topics": [
                       "ddpm",
                       "diffusion-probabilistic",
@@ -6396,7 +6396,7 @@
                     "open_issues": 301,
                     "owner": "tencent-ailab",
                     "repo": "IP-Adapter",
-                    "stars": 6702,
+                    "stars": 6703,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -6740,7 +6740,7 @@
                     "open_issues": 320,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12278,
+                    "stars": 12280,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -6808,7 +6808,7 @@
                     "open_issues": 338,
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27312,
+                    "stars": 27314,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -7257,7 +7257,7 @@
                     "open_issues": 36,
                     "owner": "microsoft",
                     "repo": "i-Code",
-                    "stars": 1700,
+                    "stars": 1699,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -7436,7 +7436,7 @@
                     "open_issues": 9,
                     "owner": "Anything-of-anything",
                     "repo": "Anything-3D",
-                    "stars": 1637,
+                    "stars": 1638,
                     "topics": [
                       "3d",
                       "computer-vision",
@@ -7753,7 +7753,7 @@
                     "open_issues": 0,
                     "owner": "QianWangX",
                     "repo": "MDP-Diffusion",
-                    "stars": 68,
+                    "stars": 67,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -8001,7 +8001,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33938,
+                    "stars": 33936,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -8198,7 +8198,7 @@
                     "open_issues": 15,
                     "owner": "arpitbansal297",
                     "repo": "Universal-Guided-Diffusion",
-                    "stars": 509,
+                    "stars": 508,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -8219,7 +8219,7 @@
                     "open_issues": 461,
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34138,
+                    "stars": 34137,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -8407,7 +8407,7 @@
                     "open_issues": 120,
                     "owner": "microsoft",
                     "repo": "LMOps",
-                    "stars": 4484,
+                    "stars": 4483,
                     "topics": [
                       "agi",
                       "gpt",
@@ -9064,7 +9064,7 @@
                     "open_issues": 295,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14180,
+                    "stars": 14181,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -9217,7 +9217,7 @@
                     "open_issues": 105,
                     "owner": "lucidrains",
                     "repo": "imagen-pytorch",
-                    "stars": 8431,
+                    "stars": 8430,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -9295,7 +9295,7 @@
                     "open_issues": 295,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14180,
+                    "stars": 14181,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -9742,7 +9742,7 @@
                     "open_issues": 108,
                     "owner": "openai",
                     "repo": "shap-e",
-                    "stars": 12266,
+                    "stars": 12267,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -10323,7 +10323,7 @@
                     "open_issues": 80,
                     "owner": "openai",
                     "repo": "point-e",
-                    "stars": 6899,
+                    "stars": 6900,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -10900,10 +10900,10 @@
                     "language": "Jupyter Notebook",
                     "license": "MIT",
                     "last_commit": "2023-02-27T07:40:51Z",
-                    "open_issues": 10,
+                    "open_issues": 11,
                     "owner": "MadryLab",
                     "repo": "photoguard",
-                    "stars": 704,
+                    "stars": 757,
                     "topics": [
                       "adversarial-attacks",
                       "adversarial-examples",
@@ -12925,7 +12925,7 @@
                 "open_issues": 3,
                 "owner": "igul222",
                 "repo": "plaid",
-                "stars": 115,
+                "stars": 116,
                 "topics": []
               },
               "first_seen": "2026-10-06T10:31:45.922Z"
@@ -13587,7 +13587,7 @@
                     "open_issues": 1,
                     "owner": "daehoum1",
                     "repo": "pcfi",
-                    "stars": 11,
+                    "stars": 10,
                     "topics": []
                   },
                   "first_seen": "2026-10-06T10:31:45.922Z"
@@ -14344,7 +14344,7 @@
                 "open_issues": 5,
                 "owner": "JavierAntoran",
                 "repo": "Bayesian-Neural-Networks",
-                "stars": 1979,
+                "stars": 1978,
                 "topics": [
                   "approximate-inference",
                   "bayes-by-backprop",
@@ -14548,7 +14548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T20:13:15.909Z",
+    "last_updated": "2026-10-28T20:31:32.491Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of resources and papers on Diffusion Models",
@@ -14560,7 +14560,7 @@
       "open_issues": 32,
       "owner": "diff-usion",
       "repo": "Awesome-Diffusion-Models",
-      "stars": 12381,
+      "stars": 12380,
       "topics": [
         "artificial-intelligence",
         "diffusion-models",
