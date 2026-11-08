@@ -106,7 +106,7 @@
                 "open_issues": 0,
                 "owner": "FilippoMB",
                 "repo": "Diffusion_models_tutorial",
-                "stars": 189,
+                "stars": 188,
                 "topics": [
                   "denoising-diffusion-probabilistic-models",
                   "diffusers",
@@ -558,7 +558,7 @@
                     "open_issues": 337,
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27334,
+                    "stars": 27335,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -3910,7 +3910,7 @@
                     "open_issues": 109,
                     "owner": "zsyOAOA",
                     "repo": "ResShift",
-                    "stars": 1435,
+                    "stars": 1436,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -4061,7 +4061,7 @@
                     "open_issues": 114,
                     "owner": "geekyutao",
                     "repo": "Inpaint-Anything",
-                    "stars": 7732,
+                    "stars": 7734,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -5067,7 +5067,7 @@
                     "open_issues": 12,
                     "owner": "xmed-lab",
                     "repo": "FSDiffReg",
-                    "stars": 44,
+                    "stars": 45,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -6396,7 +6396,7 @@
                     "open_issues": 301,
                     "owner": "tencent-ailab",
                     "repo": "IP-Adapter",
-                    "stars": 6713,
+                    "stars": 6714,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -6740,7 +6740,7 @@
                     "open_issues": 320,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12288,
+                    "stars": 12290,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -6808,7 +6808,7 @@
                     "open_issues": 337,
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27334,
+                    "stars": 27335,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -8001,7 +8001,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33907,
+                    "stars": 33905,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -8219,7 +8219,7 @@
                     "open_issues": 461,
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34151,
+                    "stars": 34153,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -9111,7 +9111,7 @@
                     "open_issues": 0,
                     "owner": "omriav",
                     "repo": "blended-latent-diffusion",
-                    "stars": 631,
+                    "stars": 632,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -10471,7 +10471,7 @@
                     "open_issues": 5,
                     "owner": "VITA-Group",
                     "repo": "NeuralLift-360",
-                    "stars": 318,
+                    "stars": 319,
                     "topics": [
                       "image-to-3d",
                       "nerf",
@@ -10903,7 +10903,7 @@
                     "open_issues": 11,
                     "owner": "MadryLab",
                     "repo": "photoguard",
-                    "stars": 850,
+                    "stars": 852,
                     "topics": [
                       "adversarial-attacks",
                       "adversarial-examples",
@@ -12518,7 +12518,7 @@
                     "open_issues": 88,
                     "owner": "haoheliu",
                     "repo": "AudioLDM",
-                    "stars": 2918,
+                    "stars": 2919,
                     "topics": [
                       "audio-generation"
                     ]
@@ -14061,7 +14061,7 @@
                 "open_issues": 0,
                 "owner": "BellmanTimeHut",
                 "repo": "DIPO",
-                "stars": 131,
+                "stars": 132,
                 "topics": []
               },
               "first_seen": "2026-10-06T10:31:45.922Z"
@@ -14548,7 +14548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:35:22.124Z",
+    "last_updated": "2026-11-08T19:55:31.079Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of resources and papers on Diffusion Models",
