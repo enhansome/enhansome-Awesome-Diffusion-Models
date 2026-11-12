@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,381 | 🐛 32 | 🌐 HTML | 📅 2024-08-01
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) ⭐ 12,380 | 🐛 32 | 🌐 HTML | 📅 2024-08-01
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges) ⭐ 165 | 🐛 2 | 📅 2026-09-27
 
@@ -718,7 +718,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2307.01924)] \
 
 **SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis** \
 *Dustin Podell, Zion English, Kyle Lacey, Andreas Blattmann, Tim Dockhorn, Jonas Müller, Joe Penna, Robin Rombach* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2307.01952)] \[[Github](https://github.com/Stability-AI/generative-models) ⭐ 27,344 | 🐛 337 | 🌐 Python | 📅 2025-12-16] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2307.01952)] \[[Github](https://github.com/Stability-AI/generative-models) ⭐ 27,345 | 🐛 337 | 🌐 Python | 📅 2025-12-16] \
 4 Jul 2023
 
 **Bidirectional Temporal Diffusion Model for Temporally Consistent Human Animation** \
@@ -1677,7 +1677,7 @@ arXiv 2022. \[[Paper](https://arxiv.org/abs/2208.12675)] \[[Project](https://cyj
 
 **Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise** \
 *Arpit Bansal, Eitan Borgnia, Hong-Min Chu, Jie S. Li, Hamid Kazemi, Furong Huang, Micah Goldblum, Jonas Geiping, Tom Goldstein* \
-arXiv 2022. \[[Paper](https://arxiv.org/abs/2208.09392)] \[[Github](https://github.com/arpitbansal297/Cold-Diffusion-Models) ⭐ 1,137 | 🐛 15 | 🌐 Python | 📅 2022-10-13] \
+arXiv 2022. \[[Paper](https://arxiv.org/abs/2208.09392)] \[[Github](https://github.com/arpitbansal297/Cold-Diffusion-Models) ⭐ 1,136 | 🐛 15 | 🌐 Python | 📅 2022-10-13] \
 19 Aug 2022
 
 **Enhancing Diffusion-Based Image Synthesis with Robust Classifier Guidance** \
@@ -1957,7 +1957,7 @@ ICML 2021. \[[Paper](https://arxiv.org/abs/2112.10741)] \[[Github](https://githu
 
 **High-Resolution Image Synthesis with Latent Diffusion Models** \
 *Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer* \
-arXiv 2021. \[[Paper](https://arxiv.org/abs/2112.10752)] \[[Github](https://github.com/CompVis/latent-diffusion) ⭐ 14,189 | 🐛 295 | 🌐 Jupyter Notebook | 📅 2024-02-29] \
+arXiv 2021. \[[Paper](https://arxiv.org/abs/2112.10752)] \[[Github](https://github.com/CompVis/latent-diffusion) ⭐ 14,187 | 🐛 295 | 🌐 Jupyter Notebook | 📅 2024-02-29] \
 20 Dec 2021
 
 **Heavy-tailed denoising score matching** \
@@ -2444,7 +2444,7 @@ arXiv 2022. \[[Paper](https://arxiv.org/abs/2211.11255)] \[[Github](https://gith
 
 **DiffusionDet: Diffusion Model for Object Detection** \
 *Shoufa Chen, Peize Sun, Yibing Song, Ping Luo* \
-arXiv 2022. \[[Paper](https://arxiv.org/abs/2211.09788)] \[[Github](https://github.com/ShoufaChen/DiffusionDet) ⭐ 2,259 | 🐛 72 | 🌐 Python | 📅 2022-12-22] \
+arXiv 2022. \[[Paper](https://arxiv.org/abs/2211.09788)] \[[Github](https://github.com/ShoufaChen/DiffusionDet) ⭐ 2,260 | 🐛 72 | 🌐 Python | 📅 2022-12-22] \
 17 Nov 2022
 
 **Denoising Diffusion Models for Out-of-Distribution Detection** \
@@ -2876,7 +2876,7 @@ MIDL 2021. \[[Paper](https://arxiv.org/abs/2112.03145)] \
 
 **Label-Efficient Semantic Segmentation with Diffusion Models** \
 *Dmitry Baranchuk, Ivan Rubachev, Andrey Voynov, Valentin Khrulkov, Artem Babenko* \
-ICLR 2021. \[[Paper](https://arxiv.org/abs/2112.03126)] \[[Github](https://github.com/yandex-research/ddpm-segmentation) ⭐ 717 | 🐛 8 | 🌐 Python | 📅 2023-04-08] \
+ICLR 2021. \[[Paper](https://arxiv.org/abs/2112.03126)] \[[Github](https://github.com/yandex-research/ddpm-segmentation) ⭐ 716 | 🐛 8 | 🌐 Python | 📅 2023-04-08] \
 6 Dec 2021
 
 **SegDiff: Image Segmentation with Diffusion Probabilistic Models** \
@@ -3033,7 +3033,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2305.16289)] \[[Github](https://gith
 
 **Unpaired Image-to-Image Translation via Neural Schrödinger Bridge** \
 *Beomsu Kim, Gihyun Kwon, Kwanyoung Kim, Jong Chul Ye* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2305.15086)] \[[Github](https://github.com/cyclomon/UNSB) ⭐ 294 | 🐛 12 | 🌐 Python | 📅 2024-04-30] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2305.15086)] \[[Github](https://github.com/cyclomon/UNSB) ⭐ 293 | 🐛 12 | 🌐 Python | 📅 2024-04-30] \
 24 May 2023
 
 **SAR-to-Optical Image Translation via Thermodynamics-inspired Network** \
@@ -3390,7 +3390,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2308.15918)] \
 
 **DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior** \
 *Xinqi Lin, Jingwen He, Ziyan Chen, Zhaoyang Lyu, Ben Fei, Bo Dai, Wanli Ouyang, Yu Qiao, Chao Dong* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2308.15070)] \[[Github](https://github.com/XPixelGroup/DiffBIR) ⭐ 4,123 | 🐛 121 | 🌐 Python | 📅 2025-07-29] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2308.15070)] \[[Github](https://github.com/XPixelGroup/DiffBIR) ⭐ 4,124 | 🐛 121 | 🌐 Python | 📅 2025-07-29] \
 29 Aug 2023
 
 **Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization** \
@@ -3510,7 +3510,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2307.14262)] \[[Github](https://gith
 
 **ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting** \
 *Zongsheng Yue, Jianyi Wang, Chen Change Loy* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2307.12348)] \[[Github](https://github.com/zsyOAOA/ResShift) ⭐ 1,436 | 🐛 109 | 🌐 Python | 📅 2026-07-08] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2307.12348)] \[[Github](https://github.com/zsyOAOA/ResShift) ⭐ 1,437 | 🐛 109 | 🌐 Python | 📅 2026-07-08] \
 23 Jul 2023
 
 **Iterative Reconstruction Based on Latent Diffusion Model for Sparse Data Reconstruction** \
@@ -3590,7 +3590,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2307.00522)] \
 
 **Solving Linear Inverse Problems Provably via Posterior Sampling with Latent Diffusion Models** \
 *Litu Rout, Negin Raoof, Giannis Daras, Constantine Caramanis, Alexandros G. Dimakis, Sanjay Shakkottai* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2307.00619)] \[[Github](https://github.com/LituRout/PSLD) ⭐ 160 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-12-18] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2307.00619)] \[[Github](https://github.com/LituRout/PSLD) ⭐ 161 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-12-18] \
 2 Jul 2023
 
 **Content-Preserving Diffusion Model for Unsupervised AS-OCT image Despeckling** \
@@ -3800,7 +3800,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2304.09479)] \[[Project](https://dif
 
 **Inpaint Anything: Segment Anything Meets Image Inpainting** \
 *Tao Yu, Runseng Feng, Ruoyu Feng, Jinming Liu, Xin Jin, Wenjun Zeng, Zhibo Chen* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2304.06790)] \[[Github](https://github.com/geekyutao/Inpaint-Anything) ⭐ 7,739 | 🐛 114 | 🌐 Jupyter Notebook | 📅 2026-08-22] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2304.06790)] \[[Github](https://github.com/geekyutao/Inpaint-Anything) ⭐ 7,738 | 🐛 114 | 🌐 Jupyter Notebook | 📅 2026-08-22] \
 13 Apr 2023
 
 **Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models** \
@@ -4265,7 +4265,7 @@ arXiv 2022. \[[Paper](https://arxiv.org/abs/2208.11284)] \
 
 **Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise** \
 *Arpit Bansal, Eitan Borgnia, Hong-Min Chu, Jie S. Li, Hamid Kazemi, Furong Huang, Micah Goldblum, Jonas Geiping, Tom Goldstein* \
-arXiv 2022. \[[Paper](https://arxiv.org/abs/2208.09392)] \[[Github](https://github.com/arpitbansal297/Cold-Diffusion-Models) ⭐ 1,137 | 🐛 15 | 🌐 Python | 📅 2022-10-13] \
+arXiv 2022. \[[Paper](https://arxiv.org/abs/2208.09392)] \[[Github](https://github.com/arpitbansal297/Cold-Diffusion-Models) ⭐ 1,136 | 🐛 15 | 🌐 Python | 📅 2022-10-13] \
 19 Aug 2022
 
 **High-Frequency Space Diffusion Models for Accelerated MRI** \
@@ -4275,7 +4275,7 @@ arXiv 2022. \[[Paper](https://arxiv.org/abs/2208.05481)] \
 
 **Restoring Vision in Adverse Weather Conditions with Patch-Based Denoising Diffusion Models** \
 *Ozan Özdenizci, Robert Legenstein* \
-arXiv 2022. \[[Paper](https://arxiv.org/abs/2207.14626)] \[[Github](https://github.com/IGITUGraz/WeatherDiffusion) ⭐ 444 | 🐛 18 | 🌐 Python | 📅 2023-02-23] \
+arXiv 2022. \[[Paper](https://arxiv.org/abs/2207.14626)] \[[Github](https://github.com/IGITUGraz/WeatherDiffusion) ⭐ 443 | 🐛 18 | 🌐 Python | 📅 2023-02-23] \
 29 Jul 2022
 
 **Non-Uniform Diffusion Models** \
@@ -4335,7 +4335,7 @@ arXiv 2022. \[[Paper](https://arxiv.org/abs/2202.01479)] \[[Github](https://gith
 
 **Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model** \
 *Dewei Hu, Yuankai K. Tao, Ipek Oguz* \
-arXiv 2022. \[[Paper](https://arxiv.org/abs/2201.11760)] \[[Github](https://github.com/DeweiHu/OCT_DDPM) ⭐ 83 | 🐛 12 | 🌐 Python | 📅 2024-06-12] \
+arXiv 2022. \[[Paper](https://arxiv.org/abs/2201.11760)] \[[Github](https://github.com/DeweiHu/OCT_DDPM) ⭐ 84 | 🐛 12 | 🌐 Python | 📅 2024-06-12] \
 27 Jan 2022
 
 **Denoising Diffusion Restoration Models** \
@@ -4345,7 +4345,7 @@ ICLR 2022 Workshop (Oral). \[[Paper](https://arxiv.org/abs/2201.11793)] \
 
 **RePaint: Inpainting using Denoising Diffusion Probabilistic Models** \
 *Andreas Lugmayr, Martin Danelljan, Andres Romero, Fisher Yu, Radu Timofte, Luc Van Gool* \
-CVPR 2022. \[[Paper](https://arxiv.org/abs/2201.09865)] \[[Github](https://github.com/andreas128/RePaint) ⭐ 2,277 | 🐛 48 | 🌐 Python | 📅 2022-08-20] \
+CVPR 2022. \[[Paper](https://arxiv.org/abs/2201.09865)] \[[Github](https://github.com/andreas128/RePaint) ⭐ 2,278 | 🐛 48 | 🌐 Python | 📅 2022-08-20] \
 24 Jan 2022
 
 **DiffuseVAE: Efficient, Controllable and High-Fidelity Generation from Low-Dimensional Latents** \
@@ -4355,7 +4355,7 @@ arXiv 2022. \[[Paper](https://arxiv.org/abs/2201.00308)] \[[Github](https://gith
 
 **High-Resolution Image Synthesis with Latent Diffusion Models** \
 *Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer* \
-CVPR 2022. \[[Paper](https://arxiv.org/abs/2112.10752)] \[[Github](https://github.com/CompVis/latent-diffusion) ⭐ 14,189 | 🐛 295 | 🌐 Jupyter Notebook | 📅 2024-02-29] \
+CVPR 2022. \[[Paper](https://arxiv.org/abs/2112.10752)] \[[Github](https://github.com/CompVis/latent-diffusion) ⭐ 14,187 | 🐛 295 | 🌐 Jupyter Notebook | 📅 2024-02-29] \
 20 Dec 2021
 
 **Come-Closer-Diffuse-Faster: Accelerating Conditional Diffusion Models for Inverse Problems through Stochastic Contraction** \
@@ -5402,7 +5402,7 @@ arXiv 2022. \[[Paper](https://arxiv.org/abs/2202.01479)] \[[Github](https://gith
 
 **Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model** \
 *Dewei Hu, Yuankai K. Tao, Ipek Oguz* \
-arXiv 2022. \[[Paper](https://arxiv.org/abs/2201.11760)] \[[Github](https://github.com/DeweiHu/OCT_DDPM) ⭐ 83 | 🐛 12 | 🌐 Python | 📅 2024-06-12] \
+arXiv 2022. \[[Paper](https://arxiv.org/abs/2201.11760)] \[[Github](https://github.com/DeweiHu/OCT_DDPM) ⭐ 84 | 🐛 12 | 🌐 Python | 📅 2024-06-12] \
 27 Jan 2022
 
 **Come-Closer-Diffuse-Faster: Accelerating Conditional Diffusion Models for Inverse Problems through Stochastic Contraction** \
@@ -6164,7 +6164,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2309.03549)] \
 
 **SyncDreamer: Generating Multiview-consistent Images from a Single-view Image** \
 *Yuan Liu, Cheng Lin, Zijiao Zeng, Xiaoxiao Long, Lingjie Liu, Taku Komura, Wenping Wang* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2309.03453)] \[[Project](https://liuyuan-pal.github.io/SyncDreamer/)] \[[Github](https://github.com/liuyuan-pal/SyncDreamer) ⭐ 1,046 | 🐛 40 | 🌐 Python | 📅 2025-10-26] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2309.03453)] \[[Project](https://liuyuan-pal.github.io/SyncDreamer/)] \[[Github](https://github.com/liuyuan-pal/SyncDreamer) ⭐ 1,047 | 🐛 40 | 🌐 Python | 📅 2025-10-26] \
 7 Sep 2023
 
 **MCM: Multi-condition Motion Synthesis Framework for Multi-scenario** \
@@ -6314,7 +6314,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2310.05934)] \
 
 **IT3D: Improved Text-to-3D Generation with Explicit View Synthesis** \
 *Yiwen Chen, Chi Zhang, Xiaofeng Yang, Zhongang Cai, Gang Yu, Lei Yang, Guosheng Lin* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2308.11473)] \[[Github](https://github.com/buaacyw/IT3D-text-to-3D) ⭐ 222 | 🐛 2 | 🌐 Python | 📅 2023-12-13] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2308.11473)] \[[Github](https://github.com/buaacyw/IT3D-text-to-3D) ⭐ 223 | 🐛 2 | 🌐 Python | 📅 2023-12-13] \
 22 Aug 2023
 
 **DiffCloth: Diffusion Based Garment Synthesis and Manipulation via Structural Cross-modal Semantic Alignment** \
@@ -6379,7 +6379,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2308.09710)] \[[Project](https://che
 
 **StableVideo: Text-driven Consistency-aware Diffusion Video Editing** \
 *Wenhao Chai, Xun Guo, Gaoang Wang, Yan Lu* \
-ICCV 2023. \[[Paper](https://arxiv.org/abs/2308.09592)] \[[Github](https://github.com/rese1f/StableVideo) ⭐ 1,435 | 🐛 17 | 🌐 Python | 📅 2023-09-07] \
+ICCV 2023. \[[Paper](https://arxiv.org/abs/2308.09592)] \[[Github](https://github.com/rese1f/StableVideo) ⭐ 1,436 | 🐛 17 | 🌐 Python | 📅 2023-09-07] \
 18 Aug 2023
 
 **Edit Temporal-Consistent Videos with Image Diffusion Model** \
@@ -6444,7 +6444,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2308.06739)] \
 
 **IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models** \
 *Hu Ye, Jun Zhang, Sibo Liu, Xiao Han, Wei Yang* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2308.06721)] \[[Project](https://ip-adapter.github.io/)] \[[Github](https://github.com/tencent-ailab/IP-Adapter) ⭐ 6,713 | 🐛 301 | 🌐 Jupyter Notebook | 📅 2024-06-28] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2308.06721)] \[[Project](https://ip-adapter.github.io/)] \[[Github](https://github.com/tencent-ailab/IP-Adapter) ⭐ 6,715 | 🐛 301 | 🌐 Jupyter Notebook | 📅 2024-06-28] \
 13 Aug 2023
 
 **LAW-Diffusion: Complex Scene Generation by Diffusion with Layouts** \
@@ -6509,7 +6509,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2308.04265)] \
 
 **DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis** \
 *Zhongjie Duan, Lizhou You, Chengyu Wang, Cen Chen, Ziheng Wu, Weining Qian, Jun Huang* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2308.03463)] \[[Project](https://anonymous456852.github.io/)] \[[Github](https://github.com/alibaba/EasyNLP/tree/master/diffusion) ⭐ 2,189 | 🐛 48 | 🌐 Python | 📅 2024-11-27] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2308.03463)] \[[Project](https://anonymous456852.github.io/)] \[[Github](https://github.com/alibaba/EasyNLP/tree/master/diffusion) ⭐ 2,188 | 🐛 48 | 🌐 Python | 📅 2024-11-27] \
 7 Aug 2023
 
 **AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose** \
@@ -6689,7 +6689,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2307.10829)] \
 
 **AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning** \
 *Yuwei Guo, Ceyuan Yang, Anyi Rao, Yaohui Wang, Yu Qiao, Dahua Lin, Bo Dai* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2307.04725)] \[[Project](https://animatediff.github.io/)] \[[Github](https://github.com/guoyww/animatediff/) ⭐ 12,293 | 🐛 320 | 🌐 Python | 📅 2024-07-31] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2307.04725)] \[[Project](https://animatediff.github.io/)] \[[Github](https://github.com/guoyww/animatediff/) ⭐ 12,294 | 🐛 320 | 🌐 Python | 📅 2024-07-31] \
 10 Jul 2023
 
 **Divide, Evaluate, and Refine: Evaluating and Improving Text-to-Image Alignment with Iterative VQA Feedback** \
@@ -6719,7 +6719,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2307.04787)] \[[Project](https://sub
 
 **SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis** \
 *Dustin Podell, Zion English, Kyle Lacey, Andreas Blattmann, Tim Dockhorn, Jonas Müller, Joe Penna, Robin Rombach* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2307.01952)] \[[Github](https://github.com/Stability-AI/generative-models) ⭐ 27,344 | 🐛 337 | 🌐 Python | 📅 2025-12-16] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2307.01952)] \[[Github](https://github.com/Stability-AI/generative-models) ⭐ 27,345 | 🐛 337 | 🌐 Python | 📅 2025-12-16] \
 4 Jul 2023
 
 **MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion** \
@@ -6914,7 +6914,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2306.05427)] \
 
 **SyncDiffusion: Coherent Montage via Synchronized Joint Diffusions** \
 *Yuseung Lee, Kunho Kim, Hyunjin Kim, Minhyuk Sung* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2306.05178)] \[[Project](https://syncdiffusion.github.io/)] \[[Github](https://github.com/KAIST-Geometric-AI-Group/SyncDiffusion) ⭐ 169 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-04-20] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2306.05178)] \[[Project](https://syncdiffusion.github.io/)] \[[Github](https://github.com/KAIST-Geometric-AI-Group/SyncDiffusion) ⭐ 170 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-04-20] \
 8 Jun 2023
 
 **Improving Tuning-Free Real Image Editing with Proximal Guidance** \
@@ -6989,7 +6989,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2306.02236)] \
 
 **VideoComposer: Compositional Video Synthesis with Motion Controllability** \
 *Xiang Wang, Hangjie Yuan, Shiwei Zhang, Dayou Chen, Jiuniu Wang, Yingya Zhang, Yujun Shen, Deli Zhao, Jingren Zhou* \
-NeruIPS 2023. \[[Paper](https://arxiv.org/abs/2306.02018)] \[[Project](https://videocomposer.github.io/)] \[[Github](https://github.com/damo-vilab/videocomposer) ⭐ 954 | 🐛 38 | 🌐 Python | 📅 2023-11-11] \
+NeruIPS 2023. \[[Paper](https://arxiv.org/abs/2306.02018)] \[[Project](https://videocomposer.github.io/)] \[[Github](https://github.com/damo-vilab/videocomposer) ⭐ 955 | 🐛 38 | 🌐 Python | 📅 2023-11-11] \
 3 Jun 2023
 
 **Word-Level Explanations for Analyzing Bias in Text-to-Image Models** \
@@ -7869,7 +7869,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2303.13516)] \[[Project](https://www
 
 **Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators** \
 *Levon Khachatryan, Andranik Movsisyan, Vahram Tadevosyan, Roberto Henschel, Zhangyang Wang, Shant Navasardyan, Humphrey Shi* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2303.13439)] \[[Github](https://github.com/Picsart-AI-Research/Text2Video-Zero) ⭐ 4,247 | 🐛 51 | 🌐 Python | 📅 2023-05-06] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2303.13439)] \[[Github](https://github.com/Picsart-AI-Research/Text2Video-Zero) ⭐ 4,249 | 🐛 51 | 🌐 Python | 📅 2023-05-06] \
 23 Mar 2023
 
 **MagicFusion: Boosting Text-to-Image Generation Performance by Fusing Diffusion Models** \
@@ -8004,7 +8004,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2303.07937)] \
 
 **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models** \
 *Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2303.04671)] \[[Github](https://github.com/microsoft/visual-chatgpt) ⭐ 33,895 | 🐛 262 | 🌐 Python | 📅 2024-01-06] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2303.04671)] \[[Github](https://github.com/microsoft/visual-chatgpt) ⭐ 33,896 | 🐛 262 | 🌐 Python | 📅 2024-01-06] \
 8 Mar 2023
 
 **Video-P2P: Video Editing with Cross-attention Control** \
@@ -8129,7 +8129,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2302.07121)] \[[Github](https://gith
 
 **Adding Conditional Control to Text-to-Image Diffusion Models** \
 *Lvmin Zhang, Maneesh Agrawala* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2302.05543)] \[[Github](https://github.com/lllyasviel/ControlNet) ⭐ 34,154 | 🐛 461 | 🌐 Python | 📅 2024-02-25] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2302.05543)] \[[Github](https://github.com/lllyasviel/ControlNet) ⭐ 34,155 | 🐛 461 | 🌐 Python | 📅 2024-02-25] \
 10 Feb 2023
 
 **Analyzing Multimodal Objectives Through the Lens of Generative Diffusion Guidance** \
@@ -8749,7 +8749,7 @@ CVPR 2023. \[[Paper](https://arxiv.org/abs/2208.12242)] \[[Project](https://drea
 
 **Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models** \
 *Robin Rombach, Andreas Blattmann, Björn Ommer* \
-arXiv 2022. \[[Paper](https://arxiv.org/abs/2207.13038)] \[[Github](https://github.com/CompVis/latent-diffusion) ⭐ 14,189 | 🐛 295 | 🌐 Jupyter Notebook | 📅 2024-02-29] \
+arXiv 2022. \[[Paper](https://arxiv.org/abs/2207.13038)] \[[Github](https://github.com/CompVis/latent-diffusion) ⭐ 14,187 | 🐛 295 | 🌐 Jupyter Notebook | 📅 2024-02-29] \
 26 Jul 2022
 
 **Discrete Contrastive Diffusion for Cross-Modal and Conditional Generation** \
@@ -8784,7 +8784,7 @@ ACM 2022. \[[Paper](https://arxiv.org/abs/2205.15996)] \[[Github](https://github
 
 **Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding** \
 *Chitwan Saharia, William Chan, Saurabh Saxena, Lala Li, Jay Whang, Emily Denton, Seyed Kamyar Seyed Ghasemipour, Burcu Karagol Ayan, S. Sara Mahdavi, Rapha Gontijo Lopes, Tim Salimans, Jonathan Ho, David J Fleet, Mohammad Norouzi* \
-NeurIPS 2022. \[[Paper](https://arxiv.org/abs/2205.11487)] \[[Github](https://github.com/lucidrains/imagen-pytorch) ⭐ 8,432 | 🐛 105 | 🌐 Python | 📅 2024-10-07]  \
+NeurIPS 2022. \[[Paper](https://arxiv.org/abs/2205.11487)] \[[Github](https://github.com/lucidrains/imagen-pytorch) ⭐ 8,431 | 🐛 105 | 🌐 Python | 📅 2024-10-07]  \
 23 May 2022
 
 **Retrieval-Augmented Diffusion Models** \
@@ -8804,7 +8804,7 @@ ICLR 2023. \[[Paper](https://arxiv.org/abs/2204.02849)] \
 
 **High-Resolution Image Synthesis with Latent Diffusion Models** \
 *Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer* \
-CVPR 2022. \[[Paper](https://arxiv.org/abs/2112.10752)] \[[Github](https://github.com/CompVis/latent-diffusion) ⭐ 14,189 | 🐛 295 | 🌐 Jupyter Notebook | 📅 2024-02-29] \
+CVPR 2022. \[[Paper](https://arxiv.org/abs/2112.10752)] \[[Github](https://github.com/CompVis/latent-diffusion) ⭐ 14,187 | 🐛 295 | 🌐 Jupyter Notebook | 📅 2024-02-29] \
 20 Dec 2021
 
 **More Control for Free! Image Synthesis with Semantic Diffusion Guidance** \
@@ -9091,7 +9091,7 @@ ICCV 2023. \[[Paper](https://arxiv.org/abs/2309.06284)] \
 
 **SyncDreamer: Generating Multiview-consistent Images from a Single-view Image** \
 *Yuan Liu, Cheng Lin, Zijiao Zeng, Xiaoxiao Long, Lingjie Liu, Taku Komura, Wenping Wang* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2309.03453)] \[[Project](https://liuyuan-pal.github.io/SyncDreamer/)] \[[Github](https://github.com/liuyuan-pal/SyncDreamer) ⭐ 1,046 | 🐛 40 | 🌐 Python | 📅 2025-10-26] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2309.03453)] \[[Project](https://liuyuan-pal.github.io/SyncDreamer/)] \[[Github](https://github.com/liuyuan-pal/SyncDreamer) ⭐ 1,047 | 🐛 40 | 🌐 Python | 📅 2025-10-26] \
 7 Sep 2023
 
 **SADIR: Shape-Aware Diffusion Models for 3D Image Reconstruction** \
@@ -9181,7 +9181,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2308.11945)] \
 
 **IT3D: Improved Text-to-3D Generation with Explicit View Synthesis** \
 *Yiwen Chen, Chi Zhang, Xiaofeng Yang, Zhongang Cai, Gang Yu, Lei Yang, Guosheng Lin* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2308.11473)] \[[Github](https://github.com/buaacyw/IT3D-text-to-3D) ⭐ 222 | 🐛 2 | 🌐 Python | 📅 2023-12-13] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2308.11473)] \[[Github](https://github.com/buaacyw/IT3D-text-to-3D) ⭐ 223 | 🐛 2 | 🌐 Python | 📅 2023-12-13] \
 22 Aug 2023
 
 **Texture Generation on 3D Meshes with Point-UV Diffusion** \
@@ -9836,7 +9836,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2303.11396)] \[[Project](https://dav
 
 **Zero-1-to-3: Zero-shot One Image to 3D Object** \
 *Ruoshi Liu, Rundi Wu, Basile Van Hoorick, Pavel Tokmakov, Sergey Zakharov, Carl Vondrick* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2303.11328)] \[[Project](https://zero123.cs.columbia.edu/)] \[[Github](https://github.com/cvlab-columbia/zero123) ⭐ 3,067 | 🐛 61 | 🌐 Python | 📅 2023-12-05] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2303.11328)] \[[Project](https://zero123.cs.columbia.edu/)] \[[Github](https://github.com/cvlab-columbia/zero123) ⭐ 3,068 | 🐛 61 | 🌐 Python | 📅 2023-12-05] \
 20 Mar 2023
 
 **SKED: Sketch-guided Text-based 3D Editing** \
@@ -9936,7 +9936,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2302.05573)] \
 
 **HumanMAC: Masked Motion Completion for Human Motion Prediction** \
 *Ling-Hao Chen, Jiawei Zhang, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang Liu* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2302.03665)] \[[Project](https://lhchen.top/Human-MAC/)] \[[Github](https://github.com/LinghaoChan/HumanMAC) ⭐ 328 | 🐛 6 | 🌐 Python | 📅 2024-05-05] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2302.03665)] \[[Project](https://lhchen.top/Human-MAC/)] \[[Github](https://github.com/LinghaoChan/HumanMAC) ⭐ 329 | 🐛 6 | 🌐 Python | 📅 2024-05-05] \
 7 Feb 2023
 
 **TEXTure: Text-Guided Texturing of 3D Shapes** \
@@ -10493,7 +10493,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2302.07801)] \
 
 **Raising the Cost of Malicious AI-Powered Image Editing** \
 *Hadi Salman, Alaa Khaddaj, Guillaume Leclerc, Andrew Ilyas, Aleksander Madry* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2302.06588)] \[[Github](https://github.com/MadryLab/photoguard) ⭐ 970 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2023-02-27] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2302.06588)] \[[Github](https://github.com/MadryLab/photoguard) ⭐ 974 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2023-02-27] \
 13 Feb 2023
 
 **Adversarial Example Does Good: Preventing Painting Imitation from Diffusion Models via Adversarial Examples** \
@@ -12203,7 +12203,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2309.09677)] \
 
 **AudioSR: Versatile Audio Super-resolution at Scale** \
 *Haohe Liu, Ke Chen, Qiao Tian, Wenwu Wang, Mark D. Plumbley* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2309.07314)] \[[Github](https://github.com/haoheliu/versatile_audio_super_resolution) ⭐ 1,993 | 🐛 57 | 🌐 Python | 📅 2025-08-27] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2309.07314)] \[[Github](https://github.com/haoheliu/versatile_audio_super_resolution) ⭐ 1,994 | 🐛 57 | 🌐 Python | 📅 2025-08-27] \
 13 Sep 2023
 
 **VRDMG: Vocal Restoration via Diffusion Posterior Sampling with Multiple Guidance** \
@@ -12517,7 +12517,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2305.06908)] \[[Github](https://como
 
 **Text-to-Audio Generation using Instruction-Tuned LLM and Latent Diffusion Model** \
 *Deepanway Ghosal, Navonil Majumder, Ambuj Mehrish, Soujanya Poria* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2304.13731)] \[[Project](https://tango-web.github.io/)] \[[Github](https://github.com/declare-lab/tango) ⭐ 1,243 | 🐛 28 | 🌐 Python | 📅 2025-07-29] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2304.13731)] \[[Project](https://tango-web.github.io/)] \[[Github](https://github.com/declare-lab/tango) ⭐ 1,244 | 🐛 28 | 🌐 Python | 📅 2025-07-29] \
 24 Apr 2023
 
 **DiffVoice: Text-to-Speech with Latent Diffusion** \
@@ -12562,7 +12562,7 @@ arXiv 2023. \[[Paper](https://arxiv.org/abs/2301.12661)] \[[Project](https://tex
 
 **AudioLDM: Text-to-Audio Generation with Latent Diffusion Models** \
 *Haohe Liu, Zehua Chen, Yi Yuan, Xinhao Mei, Xubo Liu, Danilo Mandic, Wenwu Wang, Mark D. Plumbley* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2301.12503)] \[[Project](https://audioldm.github.io/)] \[[Github](https://github.com/haoheliu/AudioLDM) ⭐ 2,922 | 🐛 88 | 🌐 Python | 📅 2025-06-25] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2301.12503)] \[[Project](https://audioldm.github.io/)] \[[Github](https://github.com/haoheliu/AudioLDM) ⭐ 2,923 | 🐛 88 | 🌐 Python | 📅 2025-06-25] \
 29 Jan 2023
 
 **ResGrad: Residual Denoising Diffusion Probabilistic Models for Text to Speech** \
@@ -12637,7 +12637,7 @@ Interspeech 2021. \[[Paper](https://arxiv.org/abs/2106.09660)] \[[Project](https
 
 **Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech** \
 *Vadim Popov, Ivan Vovk, Vladimir Gogoryan, Tasnima Sadekova, Mikhail Kudinov* \
-ICML 2021. \[[Paper](https://arxiv.org/abs/2105.06337)] \[[Project](https://grad-tts.github.io/)] \[[Github](https://github.com/huawei-noah/Speech-Backbones/tree/main/Grad-TTS) ⭐ 602 | 🐛 24 | 🌐 Jupyter Notebook | 📅 2023-09-18] \
+ICML 2021. \[[Paper](https://arxiv.org/abs/2105.06337)] \[[Project](https://grad-tts.github.io/)] \[[Github](https://github.com/huawei-noah/Speech-Backbones/tree/main/Grad-TTS) ⭐ 603 | 🐛 24 | 🌐 Jupyter Notebook | 📅 2023-09-18] \
 13 May 2021
 
 **DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism** \
@@ -12956,7 +12956,7 @@ arXiv 2022. \[[Paper](https://arxiv.org/abs/2212.09412)] \
 
 **DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models** \
 *Zhengfu He, Tianxiang Sun, Kuanning Wang, Xuanjing Huang, Xipeng Qiu* \
-arXiv 2022. \[[Paper](https://arxiv.org/abs/2211.15029)] \[[Github](https://github.com/Hzfinfdu/Diffusion-BERT) ⭐ 344 | 🐛 25 | 🌐 Python | 📅 2024-02-17] \
+arXiv 2022. \[[Paper](https://arxiv.org/abs/2211.15029)] \[[Github](https://github.com/Hzfinfdu/Diffusion-BERT) ⭐ 343 | 🐛 25 | 🌐 Python | 📅 2024-02-17] \
 28 Nov 2022
 
 **Continuous diffusion for categorical data** \
@@ -13001,7 +13001,7 @@ ICML 2022. \[[Paper](https://arxiv.org/abs/2206.05895)] \[[Github](https://githu
 
 **Diffusion-LM Improves Controllable Text Generation** \
 *Xiang Lisa Li, John Thickstun, Ishaan Gulrajani, Percy Liang, Tatsunori B. Hashimoto* \
-NeurIPS 2022. \[[Paper](https://arxiv.org/abs/2205.14217)] \[[Github](https://github.com/XiangLi1999/Diffusion-LM) ⭐ 1,249 | 🐛 58 | 🌐 Python | 📅 2024-08-08] \
+NeurIPS 2022. \[[Paper](https://arxiv.org/abs/2205.14217)] \[[Github](https://github.com/XiangLi1999/Diffusion-LM) ⭐ 1,248 | 🐛 58 | 🌐 Python | 📅 2024-08-08] \
 27 May 2022
 
 **Step-unrolled Denoising Autoencoders for Text Generation** \
@@ -13244,7 +13244,7 @@ TMLR 2022. \[[Paper](https://arxiv.org/abs/2208.09399)] \[[Github](https://githu
 
 **CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation** \
 *Yusuke Tashiro, Jiaming Song, Yang Song, Stefano Ermon* \
-NeurIPS 2021. \[[Paper](https://arxiv.org/abs/2107.03502)] \[[Github](https://github.com/ermongroup/csdi) ⭐ 468 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2024-03-14]\
+NeurIPS 2021. \[[Paper](https://arxiv.org/abs/2107.03502)] \[[Github](https://github.com/ermongroup/csdi) ⭐ 467 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2024-03-14]\
 7 Jul 2021
 
 ### Miscellany
@@ -13847,7 +13847,7 @@ ICML 2022. \[[Paper](https://arxiv.org/abs/2203.17003)] \[[Github](https://githu
 
 **GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation** \
 *Minkai Xu, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, Jian Tang* \
-ICLR 2022. \[[Paper](https://arxiv.org/abs/2203.02923)] \[[Github](https://github.com/MinkaiXu/GeoDiff) ⭐ 421 | 🐛 14 | 🌐 Python | 📅 2023-05-17] \
+ICLR 2022. \[[Paper](https://arxiv.org/abs/2203.02923)] \[[Github](https://github.com/MinkaiXu/GeoDiff) ⭐ 422 | 🐛 14 | 🌐 Python | 📅 2023-05-17] \
 6 Mar 2022
 
 **Crystal Diffusion Variational Autoencoder for Periodic Material Generation** \
@@ -14441,7 +14441,7 @@ ICLR 2023. \[[Paper](https://arxiv.org/abs/2302.03792)] \[[Github](https://githu
 
 **Conditional Flow Matching: Simulation-Free Dynamic Optimal Transport** \
 *Alexander Tong, Nikolay Malkin, Guillaume Huguet, Yanlei Zhang, Jarrid Rector-Brooks, Kilian Fatras, Guy Wolf, Yoshua Bengio* \
-arXiv 2023. \[[Paper](https://arxiv.org/abs/2302.00482)] \[[Github](https://github.com/atong01/conditional-flow-matching) ⭐ 2,612 | 🐛 44 | 🌐 Python | 📅 2026-07-20] \
+arXiv 2023. \[[Paper](https://arxiv.org/abs/2302.00482)] \[[Github](https://github.com/atong01/conditional-flow-matching) ⭐ 2,613 | 🐛 44 | 🌐 Python | 📅 2026-07-20] \
 1 Feb 2023
 
 **Transport with Support: Data-Conditional Diffusion Bridges** \
@@ -14983,4 +14983,4 @@ arXiv 2020. \[[Paper](https://arxiv.org/abs/2011.06704)] \[[Github](https://gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
