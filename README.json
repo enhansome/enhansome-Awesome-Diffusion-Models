@@ -163,7 +163,7 @@
                 "open_issues": 3,
                 "owner": "VSehwag",
                 "repo": "minimal-diffusion",
-                "stars": 312,
+                "stars": 313,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:04.306Z"
@@ -205,7 +205,7 @@
                 "open_issues": 9,
                 "owner": "acids-ircam",
                 "repo": "diffusion_models",
-                "stars": 722,
+                "stars": 721,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:04.306Z"
@@ -1507,7 +1507,7 @@
                     "open_issues": 15,
                     "owner": "arpitbansal297",
                     "repo": "Cold-Diffusion-Models",
-                    "stars": 1136,
+                    "stars": 1135,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -1803,7 +1803,7 @@
                     "open_issues": 2,
                     "owner": "bjing2016",
                     "repo": "subspace-diffusion",
-                    "stars": 136,
+                    "stars": 135,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -2212,7 +2212,7 @@
                     "open_issues": 114,
                     "owner": "openai",
                     "repo": "guided-diffusion",
-                    "stars": 7448,
+                    "stars": 7447,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -2355,7 +2355,7 @@
                     "open_issues": 15,
                     "owner": "ermongroup",
                     "repo": "ddim",
-                    "stars": 1857,
+                    "stars": 1858,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -3720,7 +3720,7 @@
                     "open_issues": 122,
                     "owner": "XPixelGroup",
                     "repo": "DiffBIR",
-                    "stars": 4124,
+                    "stars": 4123,
                     "topics": [
                       "image-enhancement",
                       "image-restoration"
@@ -4061,7 +4061,7 @@
                     "open_issues": 114,
                     "owner": "geekyutao",
                     "repo": "Inpaint-Anything",
-                    "stars": 7740,
+                    "stars": 7739,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -4487,7 +4487,7 @@
                     "open_issues": 15,
                     "owner": "arpitbansal297",
                     "repo": "Cold-Diffusion-Models",
-                    "stars": 1136,
+                    "stars": 1135,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -4536,7 +4536,7 @@
                     "open_issues": 7,
                     "owner": "cpeng93",
                     "repo": "DiffuseRecon",
-                    "stars": 69,
+                    "stars": 68,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -4557,7 +4557,7 @@
                     "open_issues": 8,
                     "owner": "Theodore-PKU",
                     "repo": "MC-DDPM",
-                    "stars": 84,
+                    "stars": 83,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -4578,7 +4578,7 @@
                     "open_issues": 0,
                     "owner": "mrirecon",
                     "repo": "spreco",
-                    "stars": 19,
+                    "stars": 18,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -4620,7 +4620,7 @@
                     "open_issues": 48,
                     "owner": "andreas128",
                     "repo": "RePaint",
-                    "stars": 2278,
+                    "stars": 2277,
                     "topics": [
                       "cvpr2022",
                       "diffusion-models",
@@ -4694,7 +4694,7 @@
                     "open_issues": 11,
                     "owner": "yang-song",
                     "repo": "score_inverse_problems",
-                    "stars": 269,
+                    "stars": 268,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -4715,7 +4715,7 @@
                     "open_issues": 16,
                     "owner": "hyungjin-chung",
                     "repo": "score-MRI",
-                    "stars": 186,
+                    "stars": 185,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -5432,7 +5432,7 @@
                     "open_issues": 0,
                     "owner": "vios-s",
                     "repo": "Diff-SCM",
-                    "stars": 105,
+                    "stars": 104,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -5524,7 +5524,7 @@
                     "open_issues": 7,
                     "owner": "cpeng93",
                     "repo": "DiffuseRecon",
-                    "stars": 69,
+                    "stars": 68,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -5545,7 +5545,7 @@
                     "open_issues": 8,
                     "owner": "Theodore-PKU",
                     "repo": "MC-DDPM",
-                    "stars": 84,
+                    "stars": 83,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -5566,7 +5566,7 @@
                     "open_issues": 0,
                     "owner": "mrirecon",
                     "repo": "spreco",
-                    "stars": 19,
+                    "stars": 18,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -5608,7 +5608,7 @@
                     "open_issues": 11,
                     "owner": "yang-song",
                     "repo": "score_inverse_problems",
-                    "stars": 269,
+                    "stars": 268,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -5629,7 +5629,7 @@
                     "open_issues": 16,
                     "owner": "hyungjin-chung",
                     "repo": "score-MRI",
-                    "stars": 186,
+                    "stars": 185,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -6740,7 +6740,7 @@
                     "open_issues": 320,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12301,
+                    "stars": 12302,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -7708,7 +7708,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-04-12T07:46:39Z",
-                    "open_issues": 7,
+                    "open_issues": 8,
                     "owner": "ZGCTroy",
                     "repo": "LayoutDiffusion",
                     "stars": 334,
@@ -7854,7 +7854,7 @@
                     "open_issues": 51,
                     "owner": "Picsart-AI-Research",
                     "repo": "Text2Video-Zero",
-                    "stars": 4252,
+                    "stars": 4253,
                     "topics": [
                       "video-editing",
                       "video-generation"
@@ -8001,7 +8001,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33884,
+                    "stars": 33885,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -8219,7 +8219,7 @@
                     "open_issues": 461,
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34158,
+                    "stars": 34159,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -8870,7 +8870,7 @@
                     "open_issues": 0,
                     "owner": "pfnet-research",
                     "repo": "multi-stage-blended-diffusion",
-                    "stars": 30,
+                    "stars": 29,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -9742,7 +9742,7 @@
                     "open_issues": 109,
                     "owner": "openai",
                     "repo": "shap-e",
-                    "stars": 12268,
+                    "stars": 12269,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -10008,7 +10008,7 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-03-18T08:59:16Z",
-                    "open_issues": 1,
+                    "open_issues": 0,
                     "owner": "Advocate99",
                     "repo": "DiffGesture",
                     "stars": 264,
@@ -10256,7 +10256,7 @@
                     "open_issues": 13,
                     "owner": "1zb",
                     "repo": "3DShape2VecSet",
-                    "stars": 561,
+                    "stars": 562,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -10323,7 +10323,7 @@
                     "open_issues": 80,
                     "owner": "openai",
                     "repo": "point-e",
-                    "stars": 6903,
+                    "stars": 6905,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -10370,7 +10370,7 @@
                     "open_issues": 39,
                     "owner": "ChenFengYe",
                     "repo": "motion-latent-diffusion",
-                    "stars": 754,
+                    "stars": 755,
                     "topics": [
                       "3d-generation",
                       "cvpr2023",
@@ -10567,7 +10567,7 @@
                     "open_issues": 19,
                     "owner": "eladrich",
                     "repo": "latent-nerf",
-                    "stars": 712,
+                    "stars": 713,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:04.306Z"
@@ -10903,7 +10903,7 @@
                     "open_issues": 12,
                     "owner": "MadryLab",
                     "repo": "photoguard",
-                    "stars": 1002,
+                    "stars": 1004,
                     "topics": [
                       "adversarial-attacks",
                       "adversarial-examples",
@@ -12303,7 +12303,7 @@
                     "open_issues": 3,
                     "owner": "sp-uhh",
                     "repo": "sgmse",
-                    "stars": 780,
+                    "stars": 781,
                     "topics": []
                   },
                   "first_seen": "2026-10-06T10:31:45.922Z"
@@ -12345,7 +12345,7 @@
                     "open_issues": 3,
                     "owner": "sp-uhh",
                     "repo": "sgmse",
-                    "stars": 780,
+                    "stars": 781,
                     "topics": []
                   },
                   "first_seen": "2026-10-06T10:31:45.922Z"
@@ -12366,7 +12366,7 @@
                     "open_issues": 3,
                     "owner": "sp-uhh",
                     "repo": "sgmse",
-                    "stars": 780,
+                    "stars": 781,
                     "topics": []
                   },
                   "first_seen": "2026-10-06T10:31:45.922Z"
@@ -14344,7 +14344,7 @@
                 "open_issues": 5,
                 "owner": "JavierAntoran",
                 "repo": "Bayesian-Neural-Networks",
-                "stars": 1980,
+                "stars": 1981,
                 "topics": [
                   "approximate-inference",
                   "bayes-by-backprop",
@@ -14435,7 +14435,7 @@
                 "open_issues": 115,
                 "owner": "microsoft",
                 "repo": "muzic",
-                "stars": 4958,
+                "stars": 4957,
                 "topics": [
                   "ai-music",
                   "deep-learning",
@@ -14548,7 +14548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T21:12:44.847Z",
+    "last_updated": "2026-11-24T02:32:10.189Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of resources and papers on Diffusion Models",
